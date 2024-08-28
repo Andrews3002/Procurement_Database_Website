@@ -1,0 +1,143 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement Database{% endblock %}
+{% block page %}{{company.name}}{% endblock %}
+
+{% block link%}
+    <ul id="nav-mobile" class="right-nav-links">
+        <li><a href="/logout">Logout</a></li>
+    </ul>
+    <ul id="nav-mobile" class="left-nav-links">
+        <li><a href="/home">Home</a></li>
+        <li><a onclick="history.back()">Back</a></li>
+    </ul>
+{% endblock %}
+
+{% block styles %}
+
+{% endblock %}
+
+{% block content %} 
+<body class="company-body">
+  <div class="company-container">
+    <main class="container">
+      <table class="company-table">
+        <tbody>
+          <tr>
+            <td class="company-heading">Lines of Business</td>
+            <td class="company-details"><a href="/company-lines/{{company.name}}" class="blue text-white btn right" style="height: max-content;">View</a>
+            </td>
+          </tr>
+          <tr>
+            <td class="company-heading">Supplier number</td>
+            <td class="company-details">{{company.supplierNumber}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Services</td>
+            <td class="company-details">{{company.services}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Building Name</td>
+            <td class="company-details">{{company.buildingName}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Street Address1</td>
+            <td class="company-details">{{company.street1Address}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Street Address2</td>
+            <td class="company-details">{{company.street2Address}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Street Address3</td>
+            <td class="company-details">{{company.street3Address}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">City</td>
+            <td class="company-details">{{company.cityName}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Supplier Type</td>
+            <td class="company-details">{{company.supplierType}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Employees Quantity</td>
+            <td class="company-details">{{company.employeesQuantity}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Nature of Business or Service</td>
+            <td class="company-details">{{company.natureOfBusinessOrService}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Firm Legal Name</td>
+            <td class="company-details">{{company.firmLegalName}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Operated Under Other Business</td>
+            <td>{{company.operatedUnderOtherBusiness}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Other Business Name</td>
+            <td class="company-details">{{company.otherBusinessName}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Subsidiary Affiliate Firm</td>
+            <td class="company-details">{{company.subsidiaryAffiliateFirm}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Affiliates Name</td>
+            <td class="company-details">{{company.affiliatesName}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Legal Query</td>
+            <td class="company-details">{{company.legalQuery}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Legal Query Details</td>
+            <td class="company-details">{{company.legalQueryDetails}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Incorporation or Registration Year</td>
+            <td class="company-details">{{company.incorporationOrRegistrationYear}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Incorporation or Registration Country</td>
+            <td class="company-details">{{company.incorporationOrRegistrationCountry}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Website Address</td>
+            <td class="company-details">{{company.websiteAddress}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Municipality</td>
+            <td class="company-details">{{company.municipality}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Country</td>
+            <td class="company-details">{{company.country}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Postal Code</td>
+            <td class="company-details">{{company.postalCode}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Telephone</td>
+            <td class="company-details">{{company.telephone}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Address Type</td>
+            <td class="company-details">{{company.addressType}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Created By</td>
+            <td class="company-details">{{company.createdBy}}</td>
+          </tr>
+          <tr>
+            <td class="company-heading">Created Timestamp</td>
+            <td class="company-details">{{company.createdTimestamp}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </main> 
+  </div>
+</body>
+{% endblock %}

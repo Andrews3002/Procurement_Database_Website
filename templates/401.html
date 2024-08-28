@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block title %}Not Authorized{% endblock %}
+{% block page %}Not Authorized{% endblock %}
+
+
+{% block styles %}
+{% endblock %}
+
+{% block content %} 
+<body class="expired-container">
+  <div class="expired-row">
+    <div class="expired-section">
+      <p class="card-title">You are not authorized to access this page</p>
+    </div>
+  </div>
+  <div class="expired-row">
+    <div class="col">
+      <a href="/" class="btn">Login</a>
+    </div>
+  </div>
+</body>
+{% endblock %}

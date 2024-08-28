@@ -1,0 +1,60 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement{% endblock %}
+{% block page %}MEEI Procurement{% endblock %}
+
+{% block link%}
+    <ul class="right-nav-links">
+        <li><a href="/logout">Logout</a></li>
+    </ul>
+    <ul id="nav-mobile" class="left-nav-links">
+        <li><a href="/home">Home</a></li>
+    </ul>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block content %}
+<body id="home-main">
+  <div class="home-main">
+    <div class="heading">
+    <div class="headingfade">
+        <h1 class="intro-title">Welcome to the Ministry of Energy and Energy Industries' Procurement Website</h1>
+        <p class="description">The information contained on this site is data retrieved from the Office of Procurement Regulation's Depository Site.</p>
+    </div>
+    </div>
+    <div class= "route-container">
+      <div id="route-card1" class="route-card">
+        <h2>Registered Suppliers</h2>
+        <a href="/Companies" id="home-btn" class="btn">
+          View
+        </a>
+      </div>
+      <div id="route-card2" class="route-card">
+        <h2>
+          Registered Lines Of Business
+        </h2>
+        <a href="/Linesofbusiness" id="home-btn" class="btn">
+          View
+        </a>
+      </div>
+      <div id="route-card3" class="route-card">
+        <h2>
+          All Lines of Business
+        </h2>
+       <a href="/layer1" id="home-btn" class="btn">
+          View
+       </a>
+      </div>
+      <div id="route-card3" class="route-card">
+        <h2>
+          Frequent Suppliers
+        </h2>
+       <a href="/favorites-page" id="home-btn" class="btn">
+          View
+       </a>
+      </div>
+    </div>
+  </div>
+</body>
+{% endblock %}

@@ -1,0 +1,125 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement Database{% endblock %}
+{% block page %}Frequent Suppliers{% endblock %}
+
+{% block link%}
+    <ul id="nav-mobile" class="right-nav-links">
+        <li><a href="/logout">Logout</a></li>
+    </ul>
+    <ul id="nav-mobile" class="left-nav-links">
+        <li><a href="/home">Home</a></li>
+    </ul>
+{% endblock %}
+
+
+
+{% block content %} 
+<body class="route_data-container">
+  <main class="container">
+    <div class="data-form">
+      <form  method="GET" action="/favorites-page" autocomplete="off">
+        <div class="action-row">
+          <div class="data_input-field">
+            <input class="search-field" value="{{q}}" name="q" type="search" placeholder="Search">
+          </div>
+          <div class="action-buttons">
+            <button type="submit" class="btn" id="route_search-btn">
+              <i class="material-icons">search</i>
+            </button>
+            <button type="button" onclick="q.value=''; this.form.submit()" class="btn" id="route_close-btn">
+              <i class="material-icons">clear</i>
+            </button>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="data-table">
+      <table>
+        <div class="table-head">
+          <thead>
+            <tr>
+                <th>Favorite</th>
+                <th>Supplier Name</th>
+                <th>Status</th>
+                <th>Contact</th>
+                <th>Website</th>
+                <th>More-info</th>
+            </tr>
+          </thead>
+        </div>
+        <div class="table-data">
+          <tbody>
+            {% for company in Companies %}
+            <div class="table-row">
+              <tr>
+                  <td class="checkbox-container">
+                    <form action="/remove-favorite/{{company.name}}" method="POST" id="favorite-form-{{ 
+                      company.name }}">
+                      <input type="submit" id="route_details-btn" class="btn" value="Remove"/>
+                    </form>
+                  </td>
+                  <td>{{company.name}}</td>
+                  <td>{{company.status}}</td>
+                  <td>{{company.telephone}}</td>
+                  <td>{{company.websiteAddress}}</td>
+                  <td>
+                    <a href="/Company/{{company.name}}" id="route_details-btn" class="btn">Details</a>
+                  </td>
+              </tr>
+            </div>
+            {% endfor %}
+          </tbody>
+        </div>  
+      </table>
+    </div>
+    <ul>
+      <div class="pageNum-row">
+      {% if Companies.prev_num %}
+        <li class="waves-effect">
+          <a href="{{ url_for('companies_page', page=Companies.prev_num, q=q)}}">
+            <i  class="material-icons">
+              Previous
+            </i>
+          </a>
+        </li>
+      {% else %}
+        <li class="disabled">
+          <a href="#!">
+            <i class="material-icons">Previous</i>
+          </a>
+        </li>
+      {% endif %}
+
+      {% for page_num in Companies.iter_pages() %}
+        {% if page_num %}
+          {% if Companies.page == page_num %}
+            <li class="active blue">
+              <a href="#!">{{ page_num }}</a>
+            </li>
+          {% else %}
+            <li class="waves-effect">
+              <a href="{{ url_for('companies_page', page=page_num, q=q) }}">{{page_num}}</a>
+            </li>
+          {% endif %}
+        {% else %}
+          <li class="disabled"><a href="#!">...</a></li>
+        {% endif %}
+      {% endfor %}
+
+      {% if Companies.has_next %}
+        <li class="waves-effect">
+          <a href="{{url_for('companies_page', page=Companies.next_num, q=q)}}">
+            <i class="material-icons">Next</i>
+          </a>
+        </li>
+      {% else %}
+        <li class="disabled">
+          <a href="#!"><i class="material-icons">Next</i></a>
+        </li>
+      {% endif %}
+      </div>
+    </ul>
+  </main>
+</body>
+
+{% endblock %}

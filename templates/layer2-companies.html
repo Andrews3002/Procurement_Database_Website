@@ -1,0 +1,70 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement Database{% endblock %}
+{% block page %}{{lineName}}{% endblock %}
+
+{% block link%}
+    <ul id="nav-mobile" class="right-nav-links">
+        <li><a href="/logout">Logout</a></li>
+    </ul>
+    <ul id="nav-mobile" class="left-nav-links">
+        <li><a href="/home">Home</a></li>
+        <li><a onclick="history.back()">Back</a></li>
+    </ul>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block content %} 
+      <body class="company-lines-body">
+        <div class="company-lines-container">
+          <main class="container">
+            <h1>Suppliers that offer this line of business</h1>
+            <p>(if the table below is empty then we have not registered for any lines of business under this category)</p>
+            <div class="comapny-lines-table">
+              <table>
+                <div class="table-head">
+                  <thead>
+                    <tr>
+                      <th>Frequent Supplier</th>
+                      <th>Supplier Name</th>
+                      <th>Status</th>
+                      <th>Contact</th>
+                      <th>Email</th>
+                      <th>More-info</th>
+                    </tr>
+                  </thead>
+                </div>
+                <tbody>
+                {% for company in suppliers %}
+                  <tr>
+                    <td class="checkbox-container">
+                      <form action="/favorites-update/{{company.name}}" method="POST" id="favorite-form-{{ 
+                        company.name }}">
+
+                        <input type="checkbox" name="mycheckbox" onchange="updateFavorite('{{ 
+                        company.name }}')" class="checkbox" {{"checked" if company.fav == "1" else 
+                        "unchecked"}}/>
+
+                      </form>
+                    </td>
+                    <td>{{company.name}}</td>
+                    <td>{{company.status}}</td>
+                    <td>{{company.telephone}}</td>
+                    <td>{{company.createdBy}}</td>
+                    <td>
+                      <div class="btnlink">
+                        <a href="/Company/{{company.name}}" id="route_details-btn" class="btn">
+                          Details
+                        </a>
+                      </div>
+                    </td>
+                  </tr>
+                {% endfor %}
+                </tbody>
+              </table>
+            </div>
+          </main>
+        </div>
+      </body>
+{% endblock %}

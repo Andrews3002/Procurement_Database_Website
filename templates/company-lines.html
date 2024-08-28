@@ -1,0 +1,53 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement Database{% endblock %}
+{% block page %}{{compName}}{% endblock %}
+
+{% block link%}
+    <ul id="nav-mobile" class="right-nav-links">
+        <li><a href="/logout">Logout</a></li>
+    </ul>
+    <ul id="nav-mobile" class="left-nav-links">
+        <li><a href="/home">Home</a></li>
+        <li><a onclick="history.back()">Back</a></li>
+    </ul>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block content %} 
+  <body class="company-lines-body">
+    <div class="company-lines-container">
+      <main class="container">
+        <h1>Lines of Business offered</h1>
+        <div class="comapny-lines-table">
+          <table>
+            <div class="table-head">
+              <thead>
+                <tr>
+                  <th>Line of Business Name</th>
+                  <th>More-info</th>
+                </tr>
+              </thead>
+            </div>
+            <tbody>
+            {% for line in lines %}
+              <tr>
+                <td>{{line.lineOfBusiness}}</td>
+                <td>
+                  <div class="btnlink">
+                    <a href="/line-companies/{{line.lineOfBusiness}}" id="route_details-btn" class="btn">
+                      Details
+                    </a>
+                  </div>
+                </td>
+              </tr>
+            {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </main>
+    </div>
+  </body>
+    
+{% endblock %}

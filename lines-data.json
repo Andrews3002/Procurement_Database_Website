@@ -1,0 +1,7357 @@
+[
+  {
+    "LOB name": "2d / 3d/ 4d seismic data interpretation",
+    "code": "84111601",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "2d/ 3d/ 4d land seismic acquisition services",
+    "code": "27111755",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "2d/ 3d/ 4d marine seismic acquisition services",
+    "code": "14111511",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "2d/ 3d/ 4d seismic data processing services",
+    "code": "27111729",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Abrasive compounds",
+    "code": "56112204",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Access software",
+    "code": "55121736",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Accounting forms or accounting books",
+    "code": "20122837",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Accounting software",
+    "code": "20122836",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Acid free tissue papers",
+    "code": "44121706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Acidizing air piping",
+    "code": "53111602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Acidizing ball injectors",
+    "code": "53102104",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Acidizing blending units",
+    "code": "53111502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Acidizing density sensors",
+    "code": "20122354",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing drop boxes",
+    "code": "20122364",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing flow meters",
+    "code": "20122372",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing junction boxes",
+    "code": "20122353",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing pressure sensors",
+    "code": "20122352",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing process piping",
+    "code": "20122369",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing pumping units",
+    "code": "20122351",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing straight joints",
+    "code": "20122367",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing swivels",
+    "code": "20122356",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing treating irons",
+    "code": "20122368",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing tree savers",
+    "code": "20122350",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acidizing units",
+    "code": "20122357",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Acoustic tools",
+    "code": "20122349",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Adding machines",
+    "code": "20122370",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Addressing or mailing labels",
+    "code": "20122360",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Adhesive label cartridges",
+    "code": "20122362",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Adhesive remover",
+    "code": "43232910",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Adhesive rollers",
+    "code": "20142601",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Adhesive tape spindles",
+    "code": "43221730",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Adjustable wrenches",
+    "code": "20122363",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Aero magnetic geophysics",
+    "code": "23301501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Agricultural drone",
+    "code": "44121504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Air drilling equipment",
+    "code": "14111545",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Air freshener",
+    "code": "50101716",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Air freshener dispensers",
+    "code": "27111760",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Air pollution monitoring or measurement services",
+    "code": "25191719",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Air quality management",
+    "code": "14121603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Air receiver tank",
+    "code": "47121604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Alarm systems",
+    "code": "47131618",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "All in one desktop computer",
+    "code": "20141015",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Allen wrench",
+    "code": "20141008",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Alloy steel sucker rods",
+    "code": "20141007",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Ammonium nitrate and fuel oil ANFO loading machinery",
+    "code": "20122514",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Analog telephones",
+    "code": "20141006",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Annulus casing packer sub",
+    "code": "20141005",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Application server software",
+    "code": "20141016",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Apron feeder",
+    "code": "20122513",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Area lighting",
+    "code": "20141018",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Area rugs",
+    "code": "20141004",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Arm chair",
+    "code": "20141003",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Armrests",
+    "code": "20141017",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Art or craft paper",
+    "code": "20141002",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Artificial plants",
+    "code": "20141001",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Ash trays",
+    "code": "20121517",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Assorted paper kits",
+    "code": "20122214",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Audio switchers",
+    "code": "20122213",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Audio visual instruments for well inspection",
+    "code": "20122216",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Audio visual technology",
+    "code": "20111715",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Audit software",
+    "code": "20141801",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Authentication server software",
+    "code": "20111705",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Automobiles or cars",
+    "code": "20121914",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Automotive cleaners",
+    "code": "20121913",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ball catcher subs",
+    "code": "20121912",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ball mills",
+    "code": "20121923",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ball point pens",
+    "code": "20111709",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ballpoint pen ink refill",
+    "code": "20111619",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Banner paper",
+    "code": "20122849",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Banquet facilities",
+    "code": "46181540",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bar code printer",
+    "code": "20123204",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Bar coding software",
+    "code": "20101619",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Barge rigs",
+    "code": "43232107",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Barrier tapes or chains",
+    "code": "45121520",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bed and breakfast inns",
+    "code": "20111504",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Bill of lading forms or bill of lading books",
+    "code": "23131512",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Bills or bill books",
+    "code": "23131511",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Binder or bulldog clips",
+    "code": "27111761",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Binders",
+    "code": "40161502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Binding coils or wire loops",
+    "code": "20131009",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Binding combs or strips",
+    "code": "47121702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Binding covers",
+    "code": "47121704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Binding spines or snaps",
+    "code": "20111712",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Bit block",
+    "code": "43232909",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blade centralizer",
+    "code": "44122121",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blade wrench",
+    "code": "20142709",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Blast joints",
+    "code": "43222503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blast nipples",
+    "code": "43222502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blaster tools",
+    "code": "14111803",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bleaches",
+    "code": "20143706",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Blending units",
+    "code": "27111738",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Blockholer or drill and load systems",
+    "code": "14121507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blotter paper",
+    "code": "43211719",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blowout preventer controls",
+    "code": "43221519",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blowout preventer parts and accessories",
+    "code": "14111831",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Blowout preventers",
+    "code": "43233006",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bluetooth universal serial bus USB adapter",
+    "code": "45111902",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bookcases",
+    "code": "52161540",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Booking forms or reservation books",
+    "code": "46171612",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Bookmarks",
+    "code": "45121506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Boom bolters",
+    "code": "20122410",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Boring machines",
+    "code": "52131604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Boring or sinking machinery",
+    "code": "20142404",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Bow spring centralizer",
+    "code": "52131601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bow spring centralizer sub",
+    "code": "25173107",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Box end wrenches",
+    "code": "78111808",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Box wrench or spanner",
+    "code": "46171701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Brazed drill",
+    "code": "78111811",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Brazed reamer",
+    "code": "20102106",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Bridge plug parts and accessories",
+    "code": "47121602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bridge plugs",
+    "code": "47121607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bridge software",
+    "code": "20102305",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Broaching machines",
+    "code": "47121705",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Broom heads",
+    "code": "47131705",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Broom or mop handles",
+    "code": "20111505",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Brooms",
+    "code": "20121708",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulk density log",
+    "code": "43211617",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulk liquid acid equipment",
+    "code": "43211609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulk liquid cement equipment",
+    "code": "43211618",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulk liquid fracturing equipment",
+    "code": "39111606",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Bulk material carriers",
+    "code": "43221731",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulkhead pass through connector",
+    "code": "45121512",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Bulldog wrench or spanner",
+    "code": "20102307",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Business cards",
+    "code": "14121601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Business forms or questionnaires",
+    "code": "20143403",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Business intelligence and data analysis software",
+    "code": "20143401",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Business intelligence consulting services",
+    "code": "20143402",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Business letterhead paper",
+    "code": "20121911",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Business Process ERP (Enterprise Resource Planning)",
+    "code": "43191510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cabbing accessories",
+    "code": "20121430",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cabbing belts",
+    "code": "23101511",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cabbing discs",
+    "code": "20111607",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cable bolters",
+    "code": "23131510",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cable head end equipment",
+    "code": "23131509",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cable locks",
+    "code": "20141401",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cable thumpers",
+    "code": "20141013",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cabochon machines",
+    "code": "20141011",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Calculator or cash register paper",
+    "code": "20122512",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Calculator ribbons",
+    "code": "20121429",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cam over wrench",
+    "code": "27111723",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Camera assemblies",
+    "code": "20122835",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Camera bags",
+    "code": "20122841",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Camera blocks or holders",
+    "code": "53121801",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera brackets",
+    "code": "20121428",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera cables",
+    "code": "90121502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera enclosures or covers",
+    "code": "47121701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera flashes or lighting",
+    "code": "41114220",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Camera harnesses",
+    "code": "43233205",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera lens",
+    "code": "46161508",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Camera lens adapters",
+    "code": "14111523",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera lens cleaners",
+    "code": "78141505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera shutters",
+    "code": "43211903",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Camera spare parts",
+    "code": "41114207",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Camera tripods",
+    "code": "27111716",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Carbonless paper",
+    "code": "27111715",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Card key lock",
+    "code": "27111739",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cardboard",
+    "code": "20121129",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cardstock papers",
+    "code": "20121128",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cargo trucks",
+    "code": "20102002",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Carpet cleaning equipment",
+    "code": "47131710",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Carpet sweepers",
+    "code": "14111704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cased hole completion repair kit",
+    "code": "47131829",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cased hole test tools",
+    "code": "47131608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular clerical office packages",
+    "code": "46171510",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular desk",
+    "code": "43231605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular executive office packages",
+    "code": "20121516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular managerial office packages",
+    "code": "20111711",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular reception office packages",
+    "code": "20111710",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular staff office packages",
+    "code": "32151910",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular storage",
+    "code": "14111818",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casegood or non modular technical office packages",
+    "code": "20122358",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Casing exit setting tool",
+    "code": "52161505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing exit whipstock",
+    "code": "45111802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing head housing",
+    "code": "45111809",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing head spool",
+    "code": "43221701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing inspection tool and accessories",
+    "code": "27111740",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Casing oscillator",
+    "code": "14111526",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing scraper parts and accessories",
+    "code": "43221516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing scrapers",
+    "code": "43221515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Casing stop device",
+    "code": "43221514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Catalog or clasp envelopes",
+    "code": "43221513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Catalytic cracking equipment",
+    "code": "43221510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Catalytic feed hydrotreater",
+    "code": "43221509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cellular telephone services",
+    "code": "20121910",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cement bulk material equipment",
+    "code": "43221506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement density sensors",
+    "code": "43221522",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement floating bulk units",
+    "code": "50201713",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement floating equipment stage tools",
+    "code": "78111804",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement floating equipment wiper plugs",
+    "code": "43231603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement pumping units",
+    "code": "14111814",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cement retainer kit",
+    "code": "27111801",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cement retainers",
+    "code": "44121605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cementing float equipment kit",
+    "code": "27111751",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cementing stage tool kit",
+    "code": "27111718",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Centralizer parts and accessories",
+    "code": "43211621",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Centralizers",
+    "code": "43211509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Chair seat",
+    "code": "43211620",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Chairs",
+    "code": "56101519",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Chambers of Commerce",
+    "code": "44122008",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Chamois or wash leathers",
+    "code": "27111720",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Chartered bus services",
+    "code": "20131007",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Chartering services",
+    "code": "43232908",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Charts or maps or atlases",
+    "code": "20121909",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Checks or check books",
+    "code": "46171621",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Chests",
+    "code": "92121701",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Choke manifolds",
+    "code": "20122215",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Chuck keys",
+    "code": "20122903",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Circulation production devices",
+    "code": "20122902",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Clasp fasteners",
+    "code": "20122901",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Clay flowerpot",
+    "code": "20121119",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning brushes",
+    "code": "83101501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cleaning cloths or wipes",
+    "code": "32152002",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning dusters",
+    "code": "20143005",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning equipment clamps",
+    "code": "20142701",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning or janitorial cart",
+    "code": "20121427",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cleaning or janitorial cart accessories",
+    "code": "20121437",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Cleaning pad holders",
+    "code": "20143803",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning pails or buckets",
+    "code": "20143501",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning solutions for office equipment",
+    "code": "20142401",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Cleaning wipes for office machines",
+    "code": "20142403",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Clip holders or dispensers",
+    "code": "20143702",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Clipboards",
+    "code": "20143502",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Closed circuit television CCTV system",
+    "code": "20143701",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Cloud-based data access and sharing software",
+    "code": "20143504",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Cloud-based management software",
+    "code": "20143404",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Cloud-based protection or security software",
+    "code": "20143801",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Coal cutters",
+    "code": "20143802",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Coffee",
+    "code": "20143601",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing centralizer",
+    "code": "20143602",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing connector",
+    "code": "20143704",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing hose packages",
+    "code": "20143705",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing inflatable systems",
+    "code": "20142406",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing injector heads",
+    "code": "20143503",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing lifting equipment",
+    "code": "20142405",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing power packs",
+    "code": "20121118",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing reels",
+    "code": "20143703",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing spooling reels",
+    "code": "80141515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing tool string",
+    "code": "20111608",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing truck crane units",
+    "code": "20121805",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Coiled tubing units",
+    "code": "92121703",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Coking machinery",
+    "code": "43212201",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cold press",
+    "code": "43232907",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Colored newsprint",
+    "code": "56101530",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Combination wrenches",
+    "code": "20121213",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Commercial airplane travel",
+    "code": "45121501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Commercial water heaters",
+    "code": "20142903",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Communications server software",
+    "code": "20102105",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Commutators",
+    "code": "14111509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Completion bull plugs",
+    "code": "25101504",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Completion expansion joints",
+    "code": "44122107",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Completion hydraulic pumps",
+    "code": "44121615",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Completion safety joints",
+    "code": "44101707",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Completion seal assemblies",
+    "code": "44121630",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Completion test equipment",
+    "code": "44121613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Composite paper or paperboard without surface coating",
+    "code": "27112401",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer accessory kits",
+    "code": "20122361",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Computer aided design CAD and computer aided manufacturing CAM system",
+    "code": "14121901",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer aided design CAD software",
+    "code": "44121506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer blade server",
+    "code": "44121604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer country or localization kits",
+    "code": "14111540",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer mouse or trackballs",
+    "code": "20122846",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Computer or notebook stands",
+    "code": "20131006",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer or office equipment cleaning kit",
+    "code": "39111618",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Computer peripheral kit",
+    "code": "47131603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer power supply",
+    "code": "27111745",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer printout paper",
+    "code": "27111714",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer servers",
+    "code": "44121505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer speakers",
+    "code": "27111726",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer support lighting or power or data components",
+    "code": "23291703",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Computer support organization",
+    "code": "43232917",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer support parts or accessories",
+    "code": "56101502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer support storage accessories",
+    "code": "27111704",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer support work surfaces",
+    "code": "27111703",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Computer switch boxes",
+    "code": "47121703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Computer workstation",
+    "code": "46161713",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Conductor casing",
+    "code": "46191501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Conductor casing running equipment",
+    "code": "27111757",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Cone crushers",
+    "code": "20123201",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Conference or non modular room packages",
+    "code": "20121434",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Conferencing tables",
+    "code": "20122342",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Confined space rescue equipment",
+    "code": "20122341",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Confinement surveillance systems maintenance or monitoring",
+    "code": "20122348",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Construction paper",
+    "code": "20122347",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Contact center software",
+    "code": "20122346",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Continuous mining bit",
+    "code": "20122345",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Continuous mining equipment",
+    "code": "20122344",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Continuous sucker rod",
+    "code": "20122343",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Continuous sucker rod pin end",
+    "code": "20122336",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control forms or control books",
+    "code": "20122335",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control line protectors",
+    "code": "20122340",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control network linking device",
+    "code": "20122359",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control network PC interface",
+    "code": "20122334",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control sound module",
+    "code": "20122333",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system cordset",
+    "code": "20122339",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system distribution box",
+    "code": "20122338",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system patchcord",
+    "code": "20122332",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system receptacle",
+    "code": "20122330",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system splitter",
+    "code": "20122329",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system wiring",
+    "code": "20122328",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Control system Y cable",
+    "code": "20122327",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Coping machines",
+    "code": "20122326",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Core bits",
+    "code": "20122325",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Core drills",
+    "code": "20122324",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Coring equipment",
+    "code": "20122323",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Correction pen refills",
+    "code": "20122373",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Correction pens",
+    "code": "20122322",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Correspondence forms or correspondence books",
+    "code": "20122321",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Corrugated fiberboard or container board CCM",
+    "code": "20122320",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cottage rental services",
+    "code": "20122319",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crane vehicles",
+    "code": "20122318",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crank arm assembly",
+    "code": "20122317",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cranks",
+    "code": "20122316",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crawler drills",
+    "code": "20122315",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crisps or chips or pretzels or mixes",
+    "code": "20122314",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cross rim wrench",
+    "code": "20122313",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crown blocks",
+    "code": "20122312",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crows foot wrench",
+    "code": "20122311",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crude distilling machinery",
+    "code": "20122310",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crusher bit",
+    "code": "20122309",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crusher hammer",
+    "code": "20122308",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Crushing plants",
+    "code": "20122365",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Curtains",
+    "code": "20122371",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cutter bar",
+    "code": "20122307",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cutter chain for mining",
+    "code": "20122306",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cutting machines",
+    "code": "20122305",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Cyclone or vortex grinders",
+    "code": "20122304",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Data analytics process as a service",
+    "code": "20122303",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Data base management system software",
+    "code": "20122302",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Data base user interface and query software",
+    "code": "20122301",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Decorative mats",
+    "code": "20111609",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Deflection tools",
+    "code": "43211605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Degreasing pans",
+    "code": "55121908",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Delivered meals services",
+    "code": "44122031",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Delivery drone",
+    "code": "20121425",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Delivery forms or delivery books",
+    "code": "45121625",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Delivery trucks",
+    "code": "20101804",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Derricks",
+    "code": "50101717",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desk based screens",
+    "code": "50202304",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desk pads or its accessories",
+    "code": "44122002",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desk storage components",
+    "code": "44122014",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desking organizational components",
+    "code": "20122838",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Desking systems related parts and accessories",
+    "code": "20111610",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Desks",
+    "code": "20121435",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desktop communications software",
+    "code": "14121811",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Desktop computers",
+    "code": "20122831",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Desktop publishing software",
+    "code": "14121602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Diaphragm wall clamshell",
+    "code": "44102414",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Die stocks",
+    "code": "20122830",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Digital camcorders or video cameras",
+    "code": "14111530",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Digital cameras",
+    "code": "55121606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Digital paper",
+    "code": "20122621",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Digital signature software",
+    "code": "20122620",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Dipping sauces or condiments or spreads or marinades",
+    "code": "20122619",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Directional drilling drill collar",
+    "code": "20122603",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Directional drilling stabilizer",
+    "code": "20122618",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Directional drilling sub",
+    "code": "20122617",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Directional drilling surface control systems",
+    "code": "20122616",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Directional drilling thruster",
+    "code": "20122622",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Dish drainer",
+    "code": "20122615",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Dish towels",
+    "code": "20122614",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Dishwashing products",
+    "code": "20122613",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Disposable fountain pen",
+    "code": "20122611",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Distillate hydroprocessing equipment",
+    "code": "20122610",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Distillate hydrotreater",
+    "code": "20122612",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Distributed control packaged system DCS",
+    "code": "20122609",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Divalent brines",
+    "code": "20122608",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Diverting manifolds",
+    "code": "20122607",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Dividers",
+    "code": "20122606",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Docking stations",
+    "code": "20122605",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Document holder",
+    "code": "20122604",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Document management software",
+    "code": "20122623",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic coffee makers",
+    "code": "20122602",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic coffee or tea cups",
+    "code": "20122601",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic disposable dishes",
+    "code": "14111544",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic disposable flatware",
+    "code": "46171619",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic drinking glasses",
+    "code": "39111613",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic electrical kettles",
+    "code": "46171514",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic food storage containers",
+    "code": "46171610",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic forks",
+    "code": "46171507",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic freezers",
+    "code": "20101903",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic garbage disposals",
+    "code": "20121424",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic kettles",
+    "code": "27111701",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic knives",
+    "code": "27111728",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic microwave ovens",
+    "code": "27111709",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic mugs",
+    "code": "20101601",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic plates",
+    "code": "44121618",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic refrigerators",
+    "code": "44121632",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic saucers",
+    "code": "20101802",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic serving bowls",
+    "code": "43211711",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic serving utensils",
+    "code": "44102202",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic spoons",
+    "code": "23101512",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic tea or coffee pots",
+    "code": "47131702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Domestic upright freezers",
+    "code": "23131508",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Domestic water heaters",
+    "code": "23131507",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Door chimes",
+    "code": "23131513",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Door guards",
+    "code": "20142708",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Double ended swivel wrench",
+    "code": "14111811",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole assembly machinery",
+    "code": "43231514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole control valve parts and accessories",
+    "code": "50171832",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole fishing poles",
+    "code": "46181507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole jet pump parts and accessories",
+    "code": "55121704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole jet pumps",
+    "code": "46181605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Downhole progressive cavity pump",
+    "code": "32151805",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Downhole shock absorber parts and accessories",
+    "code": "32151804",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Downhole shock absorbers",
+    "code": "32151803",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Downhole stabilizers",
+    "code": "32152003",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Drag block",
+    "code": "46171602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drain hole screen",
+    "code": "46181704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drain or pipe cleaning equipment",
+    "code": "46181802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drain or toilet plunger",
+    "code": "32151802",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drawworks",
+    "code": "46181604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drifters",
+    "code": "46171506",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill bit accessories",
+    "code": "27111754",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill collars",
+    "code": "44122101",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill drift",
+    "code": "20121519",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill floor equipment",
+    "code": "20121518",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill floor slips",
+    "code": "20121809",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill pipe",
+    "code": "20121803",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill pipe crossovers",
+    "code": "44122009",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill pipe thread protectors",
+    "code": "20111611",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill pipe tool joints",
+    "code": "46161601",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill rig bails",
+    "code": "20121612",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill rig elevators",
+    "code": "44121701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill rig jacking systems",
+    "code": "20121606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill rig risers",
+    "code": "20121605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill rig rotary tables",
+    "code": "20101702",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill shoe",
+    "code": "20142702",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Drill shoe parts and accessories",
+    "code": "20101708",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill stems",
+    "code": "20102104",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drill swivels",
+    "code": "20101504",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drill tubing",
+    "code": "20101701",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling carriages",
+    "code": "20101711",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling casings",
+    "code": "39111603",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling fingerboard",
+    "code": "27111743",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling jar",
+    "code": "44122037",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drilling jar parts and accessories",
+    "code": "20122827",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling machines",
+    "code": "20111622",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling or mud control instruments",
+    "code": "20121116",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling performance measurement tools",
+    "code": "20121908",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling rig ships",
+    "code": "39111608",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling rigs",
+    "code": "23111606",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling screens",
+    "code": "44122013",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drilling spear",
+    "code": "47131612",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drilling spear parts and accessories",
+    "code": "20101902",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drilling subs",
+    "code": "39111617",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drilling tool adapters",
+    "code": "55121614",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drilling wedges",
+    "code": "25132103",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drink coolers",
+    "code": "14111802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Drum plug wrench",
+    "code": "23291701",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Drums",
+    "code": "20131005",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Dust brushes or pans",
+    "code": "27111711",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Dust mops",
+    "code": "27111753",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Earth grinders",
+    "code": "27111735",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electric downhole pumps",
+    "code": "25191706",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electric pencil sharpener",
+    "code": "47131501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Electrical engineering services",
+    "code": "43221704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Electrical line heaters",
+    "code": "46171625",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electrically powered vehicle",
+    "code": "20121921",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electromagnetic vibro feeder",
+    "code": "46171504",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electromechanical vibro feeder",
+    "code": "20142704",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Electronic mail software",
+    "code": "20121211",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Electronic software documentation or user manuals",
+    "code": "20121421",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Elevating platform vehicles or scissor lifts",
+    "code": "20101710",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Emergency rescue equipment",
+    "code": "27111712",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Emulsion loading machinery",
+    "code": "46181504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Encoder decoder equipment",
+    "code": "46181503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Engine or vehicle stands",
+    "code": "45111603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Engine tool kit",
+    "code": "43231507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Engineering testing services",
+    "code": "20143006",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Engraving machines",
+    "code": "32151707",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Engrossing paper",
+    "code": "32151706",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Enterprise resource planning ERP software",
+    "code": "32151705",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Equalizer pitman assembly",
+    "code": "32151708",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Equalizers",
+    "code": "32151709",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Equipment dust covers",
+    "code": "32151603",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Erasable ink pen",
+    "code": "32151602",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Erasers",
+    "code": "32151601",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Exchangeable top or nosepiece drill",
+    "code": "32151704",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Exchangeable top or nosepiece mill",
+    "code": "32151703",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Expandable file folders",
+    "code": "90101801",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Expandable liner",
+    "code": "20121420",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Expandable sand screen hanger repair kit",
+    "code": "20121445",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Expert system software",
+    "code": "20121439",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Exploration or development system spare parts or accessories",
+    "code": "20121907",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Explosive loading machinery spare parts or accessories",
+    "code": "20141201",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Express latch couplers",
+    "code": "43231503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Eye shields",
+    "code": "43231518",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Faceting accessories",
+    "code": "43231517",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Faceting laps",
+    "code": "44103103",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Faceting machines",
+    "code": "44103107",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Faceting saws",
+    "code": "14111507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Facial shields",
+    "code": "44103125",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Facial shields parts or accessories",
+    "code": "50192301",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Facsimile paper",
+    "code": "27111731",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fax software",
+    "code": "14111829",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Feeder bit",
+    "code": "20122844",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Feeders",
+    "code": "20122826",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Felt wheels",
+    "code": "27112703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fiberboards",
+    "code": "14111615",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fiberglass holding tank",
+    "code": "14111607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Field attachable connector",
+    "code": "44121633",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Filing cabinets or accessories",
+    "code": "44121513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Filtration control agents",
+    "code": "53121704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Financial accounting service",
+    "code": "43201827",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Financial analysis software",
+    "code": "43211603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fire alarm control panel",
+    "code": "46161603",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire alarm maintenance or monitoring",
+    "code": "20143002",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire alarm systems",
+    "code": "23131506",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire extinguisher storage box",
+    "code": "23101510",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Fire extinguishers",
+    "code": "23131505",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire extinguishing agent",
+    "code": "23131504",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire extinguishing ball or patch",
+    "code": "45111601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fire sprinkler heads",
+    "code": "27111768",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fire sprinkler systems",
+    "code": "20111606",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Firewall network security equipment",
+    "code": "20102003",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fishing spear grapple",
+    "code": "20102101",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fishing spear parts and accessories",
+    "code": "20142301",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Fishing wash pipe and extension",
+    "code": "20102005",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fixed cutter drill bits",
+    "code": "20141601",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Fixed offshore production platforms",
+    "code": "20121436",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flare booms",
+    "code": "20121449",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flare burners",
+    "code": "25101511",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Flat deck material carriers",
+    "code": "43212107",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flexible head gear wrench",
+    "code": "14111510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flexible rod screwdriver",
+    "code": "43232915",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Float collars",
+    "code": "20122825",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Float shoes",
+    "code": "20142904",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Floating offshore production platforms",
+    "code": "23101514",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Floating offshore storage platforms",
+    "code": "20143301",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Floating offshore tension leg production platforms",
+    "code": "27111708",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Floating offshore tension leg storage platforms",
+    "code": "27111749",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Flood light",
+    "code": "20122845",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Floor cleaners",
+    "code": "20122824",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Floor finish applicator",
+    "code": "27111717",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Floor finishes or polishes",
+    "code": "44122106",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor machine pads",
+    "code": "14121812",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor polisher accessories",
+    "code": "44101501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor polishers",
+    "code": "43191609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor scrapers",
+    "code": "44103113",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor scrubbers",
+    "code": "55121806",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Floor sweepers",
+    "code": "14111810",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flow couplings",
+    "code": "20102301",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Flow measurement equipment",
+    "code": "46161712",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Flower stands",
+    "code": "43211508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flowerpot support",
+    "code": "43211604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flowhead baskets",
+    "code": "44121702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flowhead swivels",
+    "code": "20121604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Flowheads",
+    "code": "90101602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fluid diverters",
+    "code": "46161522",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fluid spacers",
+    "code": "46161521",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Folder kit",
+    "code": "20141101",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Folders",
+    "code": "44121625",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Foolscap sheets",
+    "code": "14111703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Foot stools",
+    "code": "47131701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Footprint wrench",
+    "code": "14111706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Formation shut in tools",
+    "code": "44101603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fountain pen ink refill",
+    "code": "44101602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fountain pens",
+    "code": "14111514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing bulk proppant equipment",
+    "code": "44121611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing control units",
+    "code": "14111705",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing density sensors",
+    "code": "44101601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing manifold units",
+    "code": "44121612",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing missiles",
+    "code": "44122104",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing proppant conveying equipment",
+    "code": "46171501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fracturing pumping units",
+    "code": "20111702",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Fracturing service packers",
+    "code": "20121419",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fracturing slurry blending units",
+    "code": "20121418",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Freepoint indicator tool and accessories",
+    "code": "14121504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Fresh cakes or pies or pastries",
+    "code": "55121609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Furniture set",
+    "code": "20122331",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Game of chance forms or coupons",
+    "code": "52101501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Gamma ray tool parts and accessories",
+    "code": "14111821",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Gas flares",
+    "code": "41114221",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Gas lift equipment",
+    "code": "20121918",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Gas lift mandrel",
+    "code": "20121917",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Gas lift valve",
+    "code": "20121916",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Gas lift valve parts and accessories",
+    "code": "14111541",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Gas recovery machinery",
+    "code": "41114210",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Gasoline hydrotreater",
+    "code": "43232111",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Gate barrier systems",
+    "code": "20122508",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Gateway software",
+    "code": "27111706",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Gauge rings",
+    "code": "20122409",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Gearmotors",
+    "code": "20122408",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Gel blending units",
+    "code": "20122402",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "General purpose cleaning kits",
+    "code": "20122404",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Geographic information system",
+    "code": "20121707",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Geophysical exploration",
+    "code": "71161605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Geophysical photo interpretation",
+    "code": "20122515",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Geophysical surveys",
+    "code": "20121115",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Geosteering tools",
+    "code": "20131308",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Gift certificate",
+    "code": "20141901",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Gift wrapping paper or bags or boxes",
+    "code": "20131307",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Glue dispensers or refills",
+    "code": "20142101",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Government accounting services",
+    "code": "20142001",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Government auditing services",
+    "code": "20131306",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Graph paper",
+    "code": "20131305",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Graphics or photo imaging software",
+    "code": "20131304",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Greeting or note or post cards",
+    "code": "20131303",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Grinding machines",
+    "code": "20131302",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Grinding wheel dressers",
+    "code": "20131301",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Grinding wheels",
+    "code": "20142801",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Gyratory crushers",
+    "code": "20122407",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hammer drills",
+    "code": "20142901",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Hammer grab",
+    "code": "20122212",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hammers",
+    "code": "27111769",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hand held camcorders or video cameras",
+    "code": "20142501",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Hand held rock drills",
+    "code": "20122406",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hand push automatic screwdriver",
+    "code": "20122704",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Handheld PDA Starter Kits",
+    "code": "20122709",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hanger bar assembly",
+    "code": "20122703",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hanger landing tools",
+    "code": "20122705",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hanging folders or accessories",
+    "code": "20122702",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hard hats",
+    "code": "20122701",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Hazardous waste container",
+    "code": "20131004",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Headphones",
+    "code": "27111725",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Heat resistant clothing",
+    "code": "27111767",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Helicopter services",
+    "code": "27111744",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Helpdesk or call center software",
+    "code": "45101603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hex keys",
+    "code": "14121904",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "High brightness newsprint",
+    "code": "43231513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "High end computer servers",
+    "code": "56101720",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Highlighters",
+    "code": "27111752",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hipot testers",
+    "code": "43232311",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hole openers",
+    "code": "50192110",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hole reamers",
+    "code": "27111702",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hole reinforcements",
+    "code": "46171508",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hook wrenches",
+    "code": "20121906",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Horizontal makeup device or bucking unit parts and accessories",
+    "code": "20121905",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Horsehead assembly",
+    "code": "20121603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hotels",
+    "code": "14111516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Household or automotive protectants",
+    "code": "43211619",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Human resources software",
+    "code": "27111732",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic horizontal development jumbos",
+    "code": "55121702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic power unit",
+    "code": "24112003",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic rock drills",
+    "code": "55121619",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic setting tools",
+    "code": "55101504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic shaft sinking jumbos",
+    "code": "43233203",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydraulic workover units",
+    "code": "43233204",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Hydrocracking equipment",
+    "code": "43232801",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Hygienic bags",
+    "code": "43232911",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ice trays",
+    "code": "43233503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Identification tags",
+    "code": "20121602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Impact crushers",
+    "code": "23111601",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Impact screwdriver",
+    "code": "52121602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "In the hole drills ITH or down the hole DTH long hole drills",
+    "code": "14111525",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Index card files",
+    "code": "55121620",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Index cards",
+    "code": "14111807",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Indexable insert drill",
+    "code": "43232906",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Indexable reamer",
+    "code": "27111734",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Industrial cabinets or drawers or shelving",
+    "code": "52161521",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Industrial cleaning kits",
+    "code": "45111609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Industrial drill bits",
+    "code": "20123003",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Industrial storage units",
+    "code": "20123004",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Inflatable packer",
+    "code": "20123002",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Information technology consultation services",
+    "code": "20123001",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Infrared data transfer irda software",
+    "code": "44121720",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Injection systems",
+    "code": "44101503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ink cartridges",
+    "code": "43212110",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ink or stamp pads",
+    "code": "20131010",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ink refills",
+    "code": "20131008",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Inkjet fax machine",
+    "code": "20122802",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Inkjet printer for commercial printing applications",
+    "code": "20121802",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Inkjet printers",
+    "code": "20121813",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Inkstone",
+    "code": "20122823",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Instant coffee",
+    "code": "20122822",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Instant tea",
+    "code": "20122211",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Institutional food preparation or service attire",
+    "code": "20122843",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Insulated screwdriver",
+    "code": "20122842",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Interchangeable rod screwdriver",
+    "code": "20122839",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Interior pipeline inspection equipment",
+    "code": "20122821",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Interior pipeline robotic cutter",
+    "code": "20122801",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Interior shutters",
+    "code": "43211807",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Internet based television or motion picture program",
+    "code": "23131514",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Internet browser software",
+    "code": "20122405",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Inventory forms or inventory books",
+    "code": "46171608",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Inventory management software",
+    "code": "47121806",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Invitation or announcement cards",
+    "code": "47131613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Iron roughnecks",
+    "code": "47131619",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Isomerization machinery",
+    "code": "20131202",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Jackup marine drilling rigs",
+    "code": "27111750",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Jaw crushers",
+    "code": "56111509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Jaw plates",
+    "code": "56111507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Junk bonnet",
+    "code": "56111501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kaolin treated paperboard",
+    "code": "56111505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kelly bushings",
+    "code": "56111503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kelly valves",
+    "code": "56111514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kelly wipers",
+    "code": "56111511",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kellys",
+    "code": "43232914",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kent paper",
+    "code": "43191501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Key cabinets or organizers",
+    "code": "25101505",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Key card for lock",
+    "code": "46181552",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Key chains or key cases",
+    "code": "23101513",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Keyboard wrist rest",
+    "code": "23291601",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Keyboards",
+    "code": "25132102",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Keys",
+    "code": "43221707",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kit for printer",
+    "code": "52161520",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Kraft tissue paper",
+    "code": "55121701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Label making software",
+    "code": "53111601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Label papers",
+    "code": "53102102",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Laminated aluminum foil paper",
+    "code": "53111501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lamination film",
+    "code": "20101805",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Laminator pouches",
+    "code": "20142703",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "LAN software",
+    "code": "44121705",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Land drilling rigs",
+    "code": "46171523",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Landing collar",
+    "code": "44121623",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Landing nipples",
+    "code": "41114201",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Large area lighting system",
+    "code": "41114202",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Laser printers",
+    "code": "56101508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Laundry products",
+    "code": "43231506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Law enforcement drone",
+    "code": "46182001",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Leathack paper",
+    "code": "46182005",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ledger paper",
+    "code": "44121708",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Legal management software",
+    "code": "20141706",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Lens cover",
+    "code": "44121619",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Levels",
+    "code": "44121617",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Library book or borrowers cards",
+    "code": "20122833",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Library software",
+    "code": "43231515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "License management software",
+    "code": "20122366",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Life buoy",
+    "code": "44122005",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Life line",
+    "code": "23111604",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Life rings",
+    "code": "56112105",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Life vests or preservers",
+    "code": "52161512",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lifelines or lifeline equipment",
+    "code": "20131003",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Lift sub and plug",
+    "code": "20101502",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Light trucks or sport utility vehicles",
+    "code": "20121611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lighting or power or data components for lecterns",
+    "code": "20111613",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Lighting, power or data components",
+    "code": "20121807",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Liner hangers",
+    "code": "20121806",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Liner packer setting tool kit",
+    "code": "14111531",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Liner setting collar",
+    "code": "90111502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Liner setting tool",
+    "code": "56101520",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Liner system repair kit",
+    "code": "46171503",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Liner top packer",
+    "code": "41114205",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Lining papers",
+    "code": "41114206",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Liquid crystal display LCD panels or monitors",
+    "code": "32151801",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Load motovan",
+    "code": "25101614",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Load switch IEC",
+    "code": "43211902",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Location hub",
+    "code": "14111616",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Location stake",
+    "code": "20121446",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lock sets",
+    "code": "20121444",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lockers",
+    "code": "20121441",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Lodges or resorts",
+    "code": "20121447",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Log books or pads",
+    "code": "20121443",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Logging while drilling tools LWD",
+    "code": "20121417",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Logging while drilling tools LWD parts and accessories",
+    "code": "56112205",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Long hole drills",
+    "code": "45111504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Longwall bit",
+    "code": "25101507",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Longwall shears",
+    "code": "20122847",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Lost circulation agents",
+    "code": "46182301",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Loudspeakers",
+    "code": "46161604",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Lounge seating",
+    "code": "46161602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Lube hydrotreater",
+    "code": "46161714",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Magazine or book covers",
+    "code": "46161605",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Magnetic decentralizer",
+    "code": "43231512",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mailing and shipping software",
+    "code": "43232609",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Makeup tongs",
+    "code": "14111536",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Manual letter openers",
+    "code": "27111802",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Manual pencil sharpener",
+    "code": "45121611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Marine and offshore installations",
+    "code": "43232616",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Markers",
+    "code": "14111513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mask or respirators filters or accessories",
+    "code": "14111617",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Masks or accessories",
+    "code": "25132104",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Materials requirements planning logistics and supply chain software",
+    "code": "47131811",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mattresses or sleep sets",
+    "code": "43212105",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Measuring rods",
+    "code": "39111619",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Measuring tapes",
+    "code": "20121416",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mechanical letter opener",
+    "code": "20121127",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mechanical lock system",
+    "code": "20122820",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Mechanical pencils",
+    "code": "43232905",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mechanical rod pumps",
+    "code": "44102002",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mechanized ground support system spare parts or accessories",
+    "code": "44102001",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mens boots",
+    "code": "14121703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mens overalls or coveralls",
+    "code": "14111537",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mens shoes",
+    "code": "43231510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Metallic nameplates",
+    "code": "14121605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Microphones",
+    "code": "44103116",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Microwave core equipment",
+    "code": "46171505",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Military drone",
+    "code": "43211706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Milling insert",
+    "code": "43211806",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Milling machines",
+    "code": "46171515",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mining headlamp",
+    "code": "46171525",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Minivans or vans",
+    "code": "46171509",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mobile phones",
+    "code": "14111618",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Modem software",
+    "code": "20122819",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Modular clerical office packages",
+    "code": "20122818",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Modular counter office packages",
+    "code": "20122817",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Modular executive office packages",
+    "code": "20122816",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Modular managerial office packages",
+    "code": "14121508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Modular reception office packages",
+    "code": "20121448",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Modular staff office packages",
+    "code": "20101714",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Modular technical office packages",
+    "code": "20101706",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mole wrench",
+    "code": "20122815",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Monovalent brines",
+    "code": "23111505",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mop heads",
+    "code": "20122834",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Mop or broom holder",
+    "code": "14111611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mop wringer",
+    "code": "43231508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Motion detectors",
+    "code": "14111812",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Motor end lifts",
+    "code": "43232705",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mounted stones",
+    "code": "55111516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mouse wrist rest",
+    "code": "52131603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud agitators",
+    "code": "20143303",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Mud cleaning equipment",
+    "code": "20143302",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Mud degassers",
+    "code": "27111741",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mud desanders",
+    "code": "27111736",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Mud dessilters",
+    "code": "53102704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud gas analyzers",
+    "code": "50201711",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud manifolds",
+    "code": "50201709",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud mixers",
+    "code": "14111543",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud motor parts and accessories",
+    "code": "43212104",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud motors",
+    "code": "45101511",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud tanks",
+    "code": "44101507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud thinning agents",
+    "code": "44121904",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Mud weighting agents",
+    "code": "44121905",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multi function printers",
+    "code": "44103105",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multifunction machines",
+    "code": "20121415",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multifunction pen",
+    "code": "43232916",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multilateral casing",
+    "code": "80101507",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Multilateral junctions",
+    "code": "20121431",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multilateral packer parts and accessories",
+    "code": "56111903",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Multilateral packers",
+    "code": "20111614",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Multimedia projectors",
+    "code": "47132101",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multimedia receivers",
+    "code": "56111906",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Multiple tip screwdriver",
+    "code": "23291704",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Multiplexer software",
+    "code": "23291503",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Multipurpose business book",
+    "code": "14111518",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multipurpose labels",
+    "code": "44122001",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Multipurpose paper",
+    "code": "20102001",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Napkins",
+    "code": "27111742",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Naptha hydrotreater",
+    "code": "20101705",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Natural diamond drill bits",
+    "code": "55121503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Network conferencing software",
+    "code": "52152012",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Network connectivity terminal emulation software",
+    "code": "47121708",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Network monitoring software",
+    "code": "23111504",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Network security and virtual private network VPN equipment software",
+    "code": "20122813",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Network security or virtual private network VPN management software",
+    "code": "20102004",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Newspapers",
+    "code": "20121414",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Non adhesive labels",
+    "code": "20102102",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Non metallic bins",
+    "code": "20122851",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Non metallic nameplates",
+    "code": "20102006",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Non sparking screwdriver",
+    "code": "43231505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Notebook computer carrying case",
+    "code": "47131817",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Notebook filler paper",
+    "code": "90111501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Nozzle drill bits",
+    "code": "20142707",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Nuclear magnetic resonance tools",
+    "code": "20122848",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Nuclear tools",
+    "code": "27111724",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Number locks",
+    "code": "44122111",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Nut drivers",
+    "code": "20121511",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Nuts or dried fruits",
+    "code": "20121510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Object oriented data base management software",
+    "code": "20122403",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Obstruction wrench",
+    "code": "44121716",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Office or work chair",
+    "code": "43211502",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Office suite software",
+    "code": "14121903",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Offset paper",
+    "code": "27111710",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Offset printing consumables",
+    "code": "43231501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Offset ring wrench or spanner",
+    "code": "78111501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Offset screw driver",
+    "code": "46181518",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Offset socket wrenches",
+    "code": "52161514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil based muds",
+    "code": "47121709",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil country casing",
+    "code": "46181701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil country couplings",
+    "code": "44122017",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil country pipe coatings",
+    "code": "20121412",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil country pup joints",
+    "code": "20142710",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Oil country thread protectors",
+    "code": "43211611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil country tubing",
+    "code": "27111737",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil dielectric testers",
+    "code": "20102103",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil field water oil centrifuges",
+    "code": "45121515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil filter wrench",
+    "code": "27111602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil samplers",
+    "code": "20111620",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil storage tanks",
+    "code": "20111603",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil vacuum filling units",
+    "code": "20101704",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil water separators",
+    "code": "23131503",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil well bulk cement",
+    "code": "23131515",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oil well class a type I cement",
+    "code": "23101506",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Oil well class b type II cement",
+    "code": "14111605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well class c cement",
+    "code": "43232102",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well class g cement",
+    "code": "14111512",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well class h cement",
+    "code": "93151607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well glycol regenerators",
+    "code": "93151606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well heater treaters",
+    "code": "44121631",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well lightweight cement",
+    "code": "14111601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well production gas treating equipment",
+    "code": "14111608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oil well standard fine type III cement",
+    "code": "20121801",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield cementing tools",
+    "code": "81151901",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield coiled tubing",
+    "code": "81151903",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield consultancy services",
+    "code": "81151902",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield fishing spears",
+    "code": "43232510",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield lapping machines",
+    "code": "47132102",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Oilfield production evaporators",
+    "code": "20121209",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield production shaft straighteners",
+    "code": "20101617",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oilfield production spoolers",
+    "code": "20121509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Open end wrenches",
+    "code": "43232912",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Operator houses",
+    "code": "46161510",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Optical character reader OCR or scanning software",
+    "code": "23111605",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Optical level",
+    "code": "23111507",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Optical mark reader paper",
+    "code": "20121438",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Optical sensing downhole cable",
+    "code": "20121451",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Optical sensing mandrel and accessories",
+    "code": "20121450",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Optical sensing surface cable",
+    "code": "20121411",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Optical square",
+    "code": "20122210",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Order forms or order books",
+    "code": "20121922",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Oriental rugs",
+    "code": "14111820",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Other Slickline Tools",
+    "code": "56101532",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Packaging labels",
+    "code": "50182001",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Packaging paper",
+    "code": "20121920",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Packer pulling tools",
+    "code": "20121208",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Packer running tools",
+    "code": "20121212",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Packers or tubing anchors",
+    "code": "20121207",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Padlocks",
+    "code": "20121206",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper clips",
+    "code": "20121210",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper cutters or refills",
+    "code": "20121205",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper cutting machines or accessories",
+    "code": "20121204",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper napkins or serviettes",
+    "code": "20121203",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper or eyelet punches",
+    "code": "20121202",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper pads or notebooks",
+    "code": "44121703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Paper punching or binding machines",
+    "code": "44121907",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Paper shredding machines or accessories",
+    "code": "20122209",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper table cloth",
+    "code": "27111748",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Paper towel dispensers",
+    "code": "56101514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Paper towels",
+    "code": "14111524",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Paper weights",
+    "code": "44122011",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Paraffin injection systems",
+    "code": "44122030",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Parking lot entry exit warning light",
+    "code": "20131002",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Parking lot proximity warning light",
+    "code": "20122806",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Party tent services",
+    "code": "20122208",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "PDC bits",
+    "code": "20122207",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pen or pencil sets",
+    "code": "20122206",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Peripheral switch boxes",
+    "code": "56101610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Personal computers",
+    "code": "56101606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Personal safety alert",
+    "code": "20121904",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Personnel carriers",
+    "code": "20121410",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Personnel forms or personnel books",
+    "code": "47121612",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Personnel identification band kits or accessories",
+    "code": "47121605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Phasers or inkjet kits",
+    "code": "47121611",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Phone headsets",
+    "code": "47121603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Photocopiers",
+    "code": "47121613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Photography paper",
+    "code": "47121608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pins or tacks",
+    "code": "47131802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pipe extractors",
+    "code": "47131610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pipe handling equipment",
+    "code": "47131801",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pipe handling equipment parts and accessories",
+    "code": "39111611",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Pipe wrench or stillson wrench",
+    "code": "20141705",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Pipe wrenches",
+    "code": "20141704",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Pipeline pig",
+    "code": "20141703",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Planing machines",
+    "code": "20141702",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Plastic holding tank",
+    "code": "20121114",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Platform drilling rigs",
+    "code": "20121113",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Platform interconnectivity software",
+    "code": "27111733",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Plotter paper",
+    "code": "27111762",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Plotter printers",
+    "code": "20102303",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Plug-In-hybrid electric vehicle",
+    "code": "20122202",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Plunger lift equipment",
+    "code": "20122201",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Plunger lift system parts and accessories",
+    "code": "20141701",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic export pumps",
+    "code": "20121601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic horizontal development jumbos",
+    "code": "20121709",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic methanol injections skids",
+    "code": "20121724",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic rock drills",
+    "code": "20121723",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic shaft sinking jumbos",
+    "code": "43222501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pneumatic vibrators",
+    "code": "46191602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Point socket",
+    "code": "46191610",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pointers",
+    "code": "46191622",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Polishing compounds",
+    "code": "46191613",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Polishing heads",
+    "code": "46191601",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Polishing machines",
+    "code": "46191621",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Polishing wheels",
+    "code": "46191505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pony rods",
+    "code": "92121702",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Pool alarms",
+    "code": "46182504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Port replicators",
+    "code": "43231604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Portable hard disk storage device",
+    "code": "84111502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Portfolios",
+    "code": "20131001",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Postage stamp",
+    "code": "56101702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Postage stamp dispensers",
+    "code": "32151909",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Poster boards",
+    "code": "20142902",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Poster papers",
+    "code": "14121505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Power drills",
+    "code": "23131502",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Power swivel or top drives",
+    "code": "20101602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Power tongs",
+    "code": "20121610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pre-printed notepad",
+    "code": "43232904",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Precision screwdriver",
+    "code": "14111508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Prepared desserts",
+    "code": "46181707",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Printer maintenance kit",
+    "code": "46181702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Printer or copier paper",
+    "code": "23131604",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Printer or facsimile or photocopier cleaning supplies",
+    "code": "23131602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Printer or facsimile toner",
+    "code": "23131603",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Procedure management software",
+    "code": "23131601",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Process mapping and design software",
+    "code": "46181803",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Procurement software",
+    "code": "20121112",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Production desanding equipment",
+    "code": "20102203",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Production logging equipment",
+    "code": "20102008",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Production packer mandrel",
+    "code": "43231511",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Production packer parts and accessories",
+    "code": "20123202",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Production packers",
+    "code": "20123203",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Professionally prepared carryout meals",
+    "code": "44122027",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable Logic Controller Accessories",
+    "code": "23291504",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Programmable Logic Controller Chassis",
+    "code": "23291502",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Programmable logic controller chassis I/O subsystem",
+    "code": "44121804",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable logic controller distributed in cabinet I/O subsystem",
+    "code": "44121721",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable logic controller distributed on machine I/O subsystem",
+    "code": "44102907",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable logic controller Input output doors",
+    "code": "52161517",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable logic controller input output housing",
+    "code": "20142706",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Programmable Logic Controller Module",
+    "code": "43231602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable Logic Controller Power Supply",
+    "code": "14111830",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Programmable Logic Controller Programming Device",
+    "code": "23101515",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Progressive cavity pump sucker rod",
+    "code": "81101703",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Project management software",
+    "code": "25191722",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Projection screens or displays",
+    "code": "25191704",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Protective coveralls",
+    "code": "43211608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Protective gloves",
+    "code": "20102202",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pullers",
+    "code": "46161716",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pulverizing machinery",
+    "code": "20102306",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pump down through flow line equipment",
+    "code": "55111601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pump integrity monitors",
+    "code": "43233501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Pumping frame and extension assembly",
+    "code": "20101621",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Pushbutton locks",
+    "code": "20101620",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Radiation survey meter",
+    "code": "25101509",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Radio communication monitoring system",
+    "code": "20142201",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Radio core equipment",
+    "code": "81101701",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Rags",
+    "code": "44121636",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Railway rolling stock lifting jack",
+    "code": "20141501",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Ratchet screwdriver",
+    "code": "20101712",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Ratchet wrench",
+    "code": "47131617",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ratchets",
+    "code": "47131601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Rate of penetration enhancers",
+    "code": "60131405",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Reamer blade",
+    "code": "27111765",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Receipts or receipt books",
+    "code": "49121510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Recreational drone",
+    "code": "20111706",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Removable labels",
+    "code": "20111707",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Renewable energy street lighting",
+    "code": "20121515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Repetitive impact systems",
+    "code": "20123304",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Replacement rubbers",
+    "code": "20123303",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Report covers",
+    "code": "20111704",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Resid hydrotreater",
+    "code": "20111612",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Residential street lights",
+    "code": "20122810",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Resistivity tools",
+    "code": "20121903",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Retrievable cementing packers",
+    "code": "20121902",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Reverse circulation drill",
+    "code": "23101502",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Rig skids",
+    "code": "20121524",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ring binder",
+    "code": "20121523",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ring wrench or spanner",
+    "code": "20111713",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Roadway or highway lighting",
+    "code": "20111703",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Rock breakers",
+    "code": "20111617",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Rock crushers",
+    "code": "20141303",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Rock cutters",
+    "code": "20122809",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Rock drill spare parts or accessories",
+    "code": "20111708",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Rod mills",
+    "code": "20123302",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Rod pumps",
+    "code": "20123301",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Roll crushers",
+    "code": "20122829",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Roller cone button insert drill bits",
+    "code": "20122828",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Roller steel tooth drill bits",
+    "code": "20122814",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Rollerball pens",
+    "code": "20122811",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Roof drill bit",
+    "code": "20122812",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Rope float lines",
+    "code": "20121507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Rotary drills",
+    "code": "20121506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Rotary or business card files",
+    "code": "20122708",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Rotary steerable tools",
+    "code": "20121508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Rotary steerable tools parts and accessories",
+    "code": "20122832",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Rotating control head",
+    "code": "20122808",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Rotating control head parts and accessories",
+    "code": "27111764",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Rubber bands",
+    "code": "20121504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "S wrench",
+    "code": "20121613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safes",
+    "code": "20111615",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Safety boots",
+    "code": "20122807",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Safety Control Module",
+    "code": "47121807",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety glasses",
+    "code": "47121808",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety helmets",
+    "code": "20101603",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Safety horns",
+    "code": "20121442",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety instrumented packaged system SIS",
+    "code": "20121514",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety isolation system",
+    "code": "20121513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety light curtain and scanner",
+    "code": "20121521",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Safety mat and edge",
+    "code": "20141502",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Safety shoes",
+    "code": "20141301",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Safety signs",
+    "code": "20141302",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Safety vests",
+    "code": "20111618",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Salad dressing or dips",
+    "code": "20121432",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sales and marketing software",
+    "code": "20111602",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Sales forms or sales books",
+    "code": "27111730",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Samson post assembly",
+    "code": "46171516",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Sanding blocks",
+    "code": "46171605",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Sanding cloths",
+    "code": "40101825",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sanding drums",
+    "code": "52141507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sanitary goods dispensers",
+    "code": "52152008",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sawing machines",
+    "code": "52151704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Scanner document feeders",
+    "code": "52151701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Scanners",
+    "code": "52152007",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Scissor bolters",
+    "code": "52152005",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Scissor sharpener",
+    "code": "52141501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Scissors",
+    "code": "52152004",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Screens",
+    "code": "52152103",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Screw extractors",
+    "code": "52141502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Screwdriver set",
+    "code": "52151702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Screwdrivers",
+    "code": "52151804",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seal bores or polished bores",
+    "code": "52141503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Secondary rock breaking system spare parts or accessories",
+    "code": "52141506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security bars",
+    "code": "52151703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security cameras",
+    "code": "52152002",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security chains or accessories",
+    "code": "52141523",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security lighting",
+    "code": "52152102",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security or access control systems",
+    "code": "52151503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Security paper",
+    "code": "52151502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic analog sensors",
+    "code": "52152101",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic arrays",
+    "code": "52141526",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic data processing systems",
+    "code": "43232202",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic drill tankers",
+    "code": "44122016",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic geophones",
+    "code": "43211602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic gravity systems",
+    "code": "44122010",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic gun winch systems",
+    "code": "20122205",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic hydrophones",
+    "code": "20131201",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic impulse sources",
+    "code": "32152001",
+    "Level": "LEVEL 5 ($50,000,000.01 - $100,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic magnetic systems",
+    "code": "23111602",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic marine streamer cables",
+    "code": "23111501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic ocean bottom cables",
+    "code": "44121719",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic positioning equipment",
+    "code": "47131810",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic rams",
+    "code": "52121601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic receivers",
+    "code": "52152202",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic recording systems",
+    "code": "20121811",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic refraction systems",
+    "code": "20121804",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic source controllers",
+    "code": "20121810",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic spooling devices",
+    "code": "20121808",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic streamer cable birds",
+    "code": "20121812",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Seismic tow blocks",
+    "code": "50171830",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic tow points",
+    "code": "43231550",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Seismic vibrators",
+    "code": "14111538",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Self adhesive labels",
+    "code": "45121504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Self adhesive note paper",
+    "code": "45121516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Self elevating workover platforms",
+    "code": "27111722",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Self-inking stamp",
+    "code": "20111623",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Semi bleached crepe papers",
+    "code": "43232112",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Semi submersible drilling rigs",
+    "code": "43211507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sensitized copying papers",
+    "code": "43232702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Setting adapter kit",
+    "code": "56101703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sewer inspection machinery",
+    "code": "56112206",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Shale shakers",
+    "code": "56112203",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sheet lifters",
+    "code": "56112202",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sheet protectors",
+    "code": "44121621",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Shelf stable juice",
+    "code": "56112201",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Shelled nuts or seeds",
+    "code": "20111616",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Shotcrete spraying equipment",
+    "code": "25101604",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Shutter release",
+    "code": "14111822",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Side pocket mandrels",
+    "code": "25132105",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Side rails for hanging folder frame",
+    "code": "90101802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sign holders or stands",
+    "code": "47121809",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Signal processor upgrades",
+    "code": "20121408",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sinker drills",
+    "code": "52101509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline adapter heads",
+    "code": "43232306",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline backoffs",
+    "code": "43232304",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline bell guides",
+    "code": "81162302",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline blind boxes",
+    "code": "20101713",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline bottom hole pressure equipment",
+    "code": "23101508",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline caliper tools",
+    "code": "20101505",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline cement dump bailing equipment",
+    "code": "20101506",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline centralizer",
+    "code": "52131501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline centralizer parts and accessories",
+    "code": "20101707",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline chemical cutters",
+    "code": "20101716",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline clamp on tool string centralizers",
+    "code": "20101715",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline clamp on wireline centralizers",
+    "code": "23111502",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline collar locators",
+    "code": "27111756",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline collectors",
+    "code": "20122840",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline colliding tools",
+    "code": "27111766",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline crossovers",
+    "code": "50192109",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline depth measurement equipment",
+    "code": "20111604",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline dewar flasks",
+    "code": "27111721",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline dipmeter tools",
+    "code": "20142705",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline directional tools",
+    "code": "20102302",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline go devil tools",
+    "code": "90111504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline hole punchers",
+    "code": "14121506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline jet cutters",
+    "code": "14111813",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline junk shots",
+    "code": "44121805",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline kickover tool parts and accessories",
+    "code": "44121806",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline kickover tools",
+    "code": "20121505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline knuckle joints",
+    "code": "20102007",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline lead impression blocks",
+    "code": "20121607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline locator mandrels",
+    "code": "23101501",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline lock mandrels",
+    "code": "32151907",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline lubricators",
+    "code": "32151908",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline mechanical bailers",
+    "code": "32151906",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline mechanical plugbacks",
+    "code": "32151905",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline paraffin scrappers",
+    "code": "32151904",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline pulling tool accessories",
+    "code": "32151903",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline pulling tools",
+    "code": "32151902",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline rope sockets",
+    "code": "32151501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline running or pulling prongs",
+    "code": "32151702",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline running tool parts and accessories",
+    "code": "32151701",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline running tools",
+    "code": "20121407",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline severing tools",
+    "code": "14111823",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline sheaves or floor blocks",
+    "code": "20143004",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline sonic tools",
+    "code": "20143003",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline spacer bars",
+    "code": "20101501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline swages",
+    "code": "20121609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline tension devices",
+    "code": "43232903",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline tubing plugs",
+    "code": "14111610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slickline ultrasonic tools",
+    "code": "92121704",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline units",
+    "code": "46161715",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slickline wire",
+    "code": "56101706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sliding sleeve repair kit",
+    "code": "56111513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Slotted expandable setting tool",
+    "code": "20101703",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Slugging wrench",
+    "code": "20122707",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Smoke detectors",
+    "code": "20122706",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Smoke signal device",
+    "code": "43211515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Smoking urns or accessories",
+    "code": "43211601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Socket sets",
+    "code": "56112002",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Sockets",
+    "code": "56112003",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Sofas",
+    "code": "56112005",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Software defined networking/ virtualization software",
+    "code": "56112004",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Solid reamer",
+    "code": "56112001",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Spanner wrenches",
+    "code": "43211607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Specialty envelopes",
+    "code": "43211501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Specialty wrenches",
+    "code": "14111506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Split ring wrench or spanner",
+    "code": "43211624",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sponges",
+    "code": "43211724",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sports lighting system",
+    "code": "44102906",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Spotting fluids",
+    "code": "43211613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stabbing board",
+    "code": "43211708",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stamp paper",
+    "code": "43211610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stamps",
+    "code": "43211522",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Standard envelopes",
+    "code": "43232604",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Standard newsprint",
+    "code": "43232614",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Standing valve",
+    "code": "43211612",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Staple guns",
+    "code": "14121509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Staple removers",
+    "code": "20121406",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stapler kit",
+    "code": "20121423",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stapler units",
+    "code": "20121422",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Staplers",
+    "code": "20121413",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Staples",
+    "code": "20121409",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Station wagons",
+    "code": "20121404",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stationery",
+    "code": "20101810",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Steel drill rod",
+    "code": "43232902",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Steel holding tank",
+    "code": "40101826",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Still cameras",
+    "code": "78111502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Stimulation pumping units",
+    "code": "27111713",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Storage cabinets",
+    "code": "14121902",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Storage networking software",
+    "code": "23101533",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Storage virtualization system",
+    "code": "23111506",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Store or business anti theft services",
+    "code": "20122503",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Straight hole directional drilling tools",
+    "code": "20122502",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Striking hammers",
+    "code": "20122516",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subscription market research",
+    "code": "20122511",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea buoyancy equipment or module",
+    "code": "20122510",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea cement heads",
+    "code": "20122509",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea christmas tree and component",
+    "code": "20122507",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea connection system",
+    "code": "20122506",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea control system",
+    "code": "20122505",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea fitting",
+    "code": "20122504",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea flange",
+    "code": "20111714",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea flexible pipe or pipeline",
+    "code": "20122518",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea flexible riser",
+    "code": "50201706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea flow meter, multi phase",
+    "code": "20101503",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea flow meter, single phase",
+    "code": "43233206",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea jumper assembly",
+    "code": "43232806",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea jumper installation tool",
+    "code": "43233513",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea line pipe",
+    "code": "46171622",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Subsea manifold",
+    "code": "44122012",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea pipe coating and insulation and cathodic protection",
+    "code": "44121628",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea production manifold system",
+    "code": "44102911",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea production wellhead equipment",
+    "code": "44102912",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea running tool",
+    "code": "47121804",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsea wet gas meter",
+    "code": "47131616",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsurface safety valve parts and accessories",
+    "code": "47121502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Subsurface safety valves",
+    "code": "47121501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sucker rod pump jacks",
+    "code": "47131614",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Sucker rod shear coupling",
+    "code": "47121801",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Supervisory control and data acquisition packaged system SCADA",
+    "code": "47131502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Supply of water",
+    "code": "47131605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surface cement heads",
+    "code": "56101609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surface data logging conduits",
+    "code": "44122103",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surface data logging sensors",
+    "code": "20121405",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surface data logging units",
+    "code": "27111727",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Surge tanks",
+    "code": "20122204",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Surveillance or alarm maintenance or monitoring",
+    "code": "56101516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surveillance video or audio recorders",
+    "code": "14111805",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Surveying systems",
+    "code": "55101501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Switch or router software",
+    "code": "90121503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Synthetic based muds",
+    "code": "78111803",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "T handle tap wrenches",
+    "code": "47131503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tab indexes",
+    "code": "83121601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tables",
+    "code": "56101504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tablet computer cover",
+    "code": "56112304",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tablet computers",
+    "code": "20121111",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tablet protective film or screen protector",
+    "code": "20121126",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tap extractors",
+    "code": "20121123",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tap spanner or basin wrench",
+    "code": "20121124",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tape dispensers",
+    "code": "20121110",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tape measures",
+    "code": "20121125",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tax forms or tax books",
+    "code": "20121109",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tax preparation software",
+    "code": "20121108",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Taxicab services",
+    "code": "20121107",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tea bags",
+    "code": "20121106",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Teleconference equipment",
+    "code": "20121105",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Teleconferencing console",
+    "code": "20121104",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Telemetry systems",
+    "code": "83111603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Telephone call accounting systems",
+    "code": "23111603",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Telephone call diverter or forwarder",
+    "code": "23111503",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Telephone call sequencers",
+    "code": "44121507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Telephone dial backup units",
+    "code": "20122710",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Telephone line sharing devices",
+    "code": "20121503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Telephone line status monitors",
+    "code": "20121522",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Telephone message pads or books",
+    "code": "20111621",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Telescoping screwdriver",
+    "code": "20121919",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Television core equipment",
+    "code": "20141014",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Television mount accessories",
+    "code": "20141012",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Television mounts",
+    "code": "20123102",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Televisions",
+    "code": "20123101",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Test dart",
+    "code": "56111508",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Thermal paper",
+    "code": "56111703",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Through panel control connection system",
+    "code": "56111506",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Thru tubing packer repair kit",
+    "code": "56111512",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Thru tubing parts and accessories",
+    "code": "56111504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Thrusters",
+    "code": "56111502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Time accounting software",
+    "code": "56111701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Time locks",
+    "code": "56111510",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Toilet brush and toilet brush holder",
+    "code": "20122203",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Toilet cleaners",
+    "code": "20121433",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Toilet tissue",
+    "code": "47121606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Toilet tissue dispensers",
+    "code": "47121609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Top hammer long hole drills",
+    "code": "25101611",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Torque and drag reduction tool",
+    "code": "14111519",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Torque and drag reduction tool parts and accessories",
+    "code": "14121503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Torque screwdriver",
+    "code": "46171524",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Torque wrenches",
+    "code": "14111527",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Torx keys",
+    "code": "45121602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Total station",
+    "code": "45121633",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Touch screen monitors",
+    "code": "45121604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Towing service for commercial and private vehicles",
+    "code": "45121622",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tracing paper",
+    "code": "45121618",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Traffic cones or delineators",
+    "code": "45121603",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Transaction security and virus protection software",
+    "code": "45121606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Transit",
+    "code": "45121601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Trash bags",
+    "code": "45121613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Travel agencies",
+    "code": "45121610",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Travel joints",
+    "code": "45121609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Travel kits",
+    "code": "45121607",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Traveling blocks",
+    "code": "45121617",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Traveling equipment",
+    "code": "45121608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tube wrenches",
+    "code": "27111758",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tubing anchors",
+    "code": "44101805",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tubing guides",
+    "code": "14111515",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tubing head adapter",
+    "code": "23131704",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tubing head spool",
+    "code": "20122401",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Tubing stops",
+    "code": "46171502",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tumblers or polishers",
+    "code": "43222602",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Tumbling supplies or media",
+    "code": "20101801",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Tunneling machinery",
+    "code": "23131703",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Turning machines",
+    "code": "23131702",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Twin flow assemblies",
+    "code": "23131701",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Two way radios",
+    "code": "43231606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Ultrasonic tools",
+    "code": "14111828",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Umbilical riser and flowline",
+    "code": "80101508",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Umbilical termination assembly",
+    "code": "43232314",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Umbilical unit",
+    "code": "14111806",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Unbleached crepe papers",
+    "code": "14111604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Underground mining service vehicle spare parts or accessories",
+    "code": "27111746",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Underwater cameras",
+    "code": "32151901",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Underwater communication system",
+    "code": "20102304",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Underwater lighting",
+    "code": "20121201",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Universal serial bus general packet radio service USB GPRS modem",
+    "code": "20121103",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Universal serial bus hubs or connectors",
+    "code": "20121007",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Universal serial bus USB extension cable",
+    "code": "20121915",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Unspecified fishing tools",
+    "code": "47131604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Uranium exploration equipment",
+    "code": "47131609",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Urinal or toilet accessories",
+    "code": "47131615",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Urn sand bags",
+    "code": "23101503",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Utility service vehicles",
+    "code": "43232913",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Vacuum cleaner supplies or accessories",
+    "code": "20121102",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vacuum cleaners",
+    "code": "20121130",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vacuum drill rod",
+    "code": "23291702",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Vehicle leasing of light trucks and sport utility vehicles",
+    "code": "23291501",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Vehicle parking permit",
+    "code": "27111747",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vehicle rental",
+    "code": "27111705",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vehicular global positioning system GPS",
+    "code": "20121122",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Venetian blinds",
+    "code": "20121120",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vertical annular separation and pumping system",
+    "code": "20111601",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vertical blinds",
+    "code": "23101505",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Vibration analyzers",
+    "code": "20101803",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Video conference cameras",
+    "code": "44121627",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Video monitors",
+    "code": "14111819",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Video switchers",
+    "code": "56101507",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Videoconferencing systems",
+    "code": "43211614",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Virtual machine software",
+    "code": "20121501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Visitor or guest book",
+    "code": "20121520",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Voice mail systems",
+    "code": "20121502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Voice microphones for computers",
+    "code": "14111520",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Volatile corrosion inhibitor or VCI paper",
+    "code": "20101901",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Voltage tester screwdriver",
+    "code": "20121101",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Vortex induced vibration VIV suppression equipment",
+    "code": "47131807",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Vouchers",
+    "code": "20122501",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "VPN network security equipment",
+    "code": "20121403",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Vulnerability Assessment Security Equipment",
+    "code": "20121402",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Walking beam assembly",
+    "code": "27111759",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wall or board clips",
+    "code": "20121121",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "WAN switching software and firmware",
+    "code": "20121608",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wash pipe",
+    "code": "44103503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Waste container lids",
+    "code": "44103502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Waste containers or rigid liners",
+    "code": "44103505",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water based muds",
+    "code": "44103504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water filters",
+    "code": "44122003",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water pump wrench",
+    "code": "44122105",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water swivels",
+    "code": "14111804",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water trays",
+    "code": "14111809",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Water well drilling equipment",
+    "code": "90111503",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Web cameras",
+    "code": "46161507",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Web page creation and editing software",
+    "code": "20122804",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Weigh belt feeder",
+    "code": "43231509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Weldable liner",
+    "code": "43212115",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Welder gloves",
+    "code": "90101601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well casing spider",
+    "code": "14111613",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well drilling bit cones",
+    "code": "44121908",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well drilling tool or accessory kits",
+    "code": "44121704",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well imaging tool and parts",
+    "code": "20101709",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Well logging bottom hole pressure equipment",
+    "code": "20121401",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well logging downhole test equipment",
+    "code": "47131828",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well logging units",
+    "code": "25101503",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Well points",
+    "code": "43233201",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well production gas turbine meters",
+    "code": "43231516",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well site pit liner",
+    "code": "86141702",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well testing downhole tools",
+    "code": "20111701",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Well testing separators",
+    "code": "52161541",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Well testing surface piping",
+    "code": "14111532",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellbore hole reamer parts and accessories",
+    "code": "47121706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead actuators",
+    "code": "56101528",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead beam pumps",
+    "code": "14111606",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead carrier body",
+    "code": "56101533",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead flow lines",
+    "code": "56101522",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead gate valves",
+    "code": "52101502",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead hanger",
+    "code": "39111612",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Wellhead hookups",
+    "code": "20101618",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wellhead landing base",
+    "code": "43232701",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead production chokes",
+    "code": "20121440",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead sub surface flow or christmas trees",
+    "code": "43191509",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wellhead support structures",
+    "code": "20102201",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wellhead surface flow or christmas trees",
+    "code": "20143001",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wellhead surface safety valves",
+    "code": "27111763",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wellhead tees or crosses",
+    "code": "43211521",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wet mops",
+    "code": "46171604",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wet or dry combination vacuum cleaners",
+    "code": "20142905",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Wet strength tissue papers",
+    "code": "77121501",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wheel nut or lug wrench",
+    "code": "77121504",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wheel nut wrench or lug nut wrench",
+    "code": "47131706",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Whole nuts or seeds",
+    "code": "47131812",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wide format printer paper",
+    "code": "20122803",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Window envelopes",
+    "code": "25132101",
+    "Level": "LEVEL 3 ($2,000,000.01 - $10,000,000.00)"
+  },
+  {
+    "LOB name": "Wire and cable cutting and terminal assembly equipment",
+    "code": "81151904",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Wire finder",
+    "code": "27111707",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wired telecommunications transmitter",
+    "code": "44121635",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireless production control systems",
+    "code": "44121634",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireless software",
+    "code": "44121626",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireline bell guide",
+    "code": "44102412",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireline broach",
+    "code": "55121605",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireline crossover",
+    "code": "44101802",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Wireline grabs",
+    "code": "20121901",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline jar accelerators",
+    "code": "20121004",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline jars",
+    "code": "20121016",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline mandrel",
+    "code": "20121015",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline preventers",
+    "code": "20121014",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline pulling tool",
+    "code": "20121013",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline scrapers",
+    "code": "20121003",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline setting tool",
+    "code": "20121012",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline spear",
+    "code": "20121011",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline stems",
+    "code": "20121010",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline swivel joint",
+    "code": "20121009",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline tool string",
+    "code": "20121008",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wireline valves",
+    "code": "20121002",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Womens boots",
+    "code": "20121001",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Womens overalls or coveralls",
+    "code": "20121006",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Womens shoes",
+    "code": "20121005",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wooden pencils",
+    "code": "14121604",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Workover boats",
+    "code": "43231601",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Workover rigs",
+    "code": "14111808",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Workplace safety sign or poster",
+    "code": "43232901",
+    "Level": "LEVEL 1 (0 - $100,000.00)"
+  },
+  {
+    "LOB name": "Worksurfaces",
+    "code": "23131501",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Wrench set",
+    "code": "71112303",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  },
+  {
+    "LOB name": "Writing paper",
+    "code": "71112302",
+    "Level": "LEVEL 6 (>$100,000,000.00)"
+  },
+  {
+    "LOB name": "Y wrench",
+    "code": "71112301",
+    "Level": "LEVEL 4 ($10,000,000.01 - $50,000,000.00)"
+  },
+  {
+    "LOB name": "Year end audits",
+    "code": "71112322",
+    "Level": "LEVEL 2 ($100,000.01 - $2,000,000.00)"
+  }
+]

@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+  <head>
+
+    <link rel="stylesheet" href="/static/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>{% block title %}{% endblock %}</title>
+    <style>
+      {% block styles %}{% endblock %}
+    </style>
+
+  </head>
+  <body>
+    <nav class="navbar">
+      <div class="nav-wrapper">
+        <a href="#!" class="logo">{% block page %}{% endblock %}</a>
+        {% block link %}{% endblock %}
+      </div> 
+    </nav>
+
+    <div id="content">
+    
+      {% with messages = get_flashed_messages() %}
+      {% if messages %}
+  
+        <div  id="alert" >     
+          {% for message in messages %}
+            <div>{{ message }}</div>
+          {% endfor %}
+        </div>  
+  
+      {% endif %}
+      {% endwith %}
+ 
+      {% block content %}{% endblock %}
+    </div>
+    <script src="/static/script.js"></script>
+  </body>
+</html>

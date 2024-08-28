@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+{% block title %}Sign Up{% endblock %}
+{% block page %}Sign Up{% endblock %}
+
+{% block link%}
+    <ul id="nav-mobile" class="right-nav-links">
+        <li><a href="/login">Login</a></li>
+    </ul>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block content %}
+<body id="auth-main">
+  <div class="form-container">
+     <form id="loginForm" method="POST" action="/signup" autocomplete="off">
+        <div id="signup" class="form-row">
+          <div class="data-section">
+            <input placeholder="" name="email" type="email" class="input-field">
+            <label for="email" class="field-label">Email</label>
+          </div>
+        </div>
+        <div id="signup" class="form-row">
+          <div class="data-section">
+            <input placeholder="" name="username" type="text" class="input-field">
+            <label for="username" class="field-label">Username</label>
+          </div>
+        </div>
+        <div id="signup" class="form-row">
+          <div class="data-section">
+            <input placeholder="" name="password" type="password" class="input-field">
+            <label for="password" class="field-label">Password</label>
+          </div>
+        </div>
+        <div id="signup" class="button-row">
+         <a href="#!">
+         <input type="submit" class="btn">
+         </a>
+        </div>
+  
+    </form>
+  </div>
+</body>
+{% endblock %}

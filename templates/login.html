@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block title %}MEEI Procurement Database{% endblock %}
+{% block page %}Login{% endblock %}
+
+{% block link%}
+  <div class="right-nav-links">
+    <li><a href="/signup">Signup</a></li>
+  </div>
+{% endblock %}
+
+{% block styles %}
+{% endblock %}
+
+{% block content %}
+  <body id="auth-main">
+    <div class="form-container">
+      <form method="POST" action="/login" autocomplete="off">
+         <div class="form-row">
+           <div class="data-section">
+             <input placeholder="" name="username" type="text" class="input-field">
+             <label for="username" class="field-label">Username</label>
+           </div>
+         </div>
+         <div class="form-row">
+           <div class="data-section">
+             <input placeholder="" name="password" type="password" class="input-field">
+             <label for="password" class="field-label">Password</label>
+           </div>
+         </div>
+         <div class="button-row">
+           <a href="#!">
+           <input type="submit" class="btn">
+           </a>
+         </div>
+      </form>
+    </div>
+  </body>
+</main>
+{% endblock %}
