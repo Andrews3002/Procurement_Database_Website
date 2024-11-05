@@ -2,6 +2,7 @@ import os
 from flask import Flask, request, render_template, flash, jsonify, redirect, url_for
 from functools import wraps
 from models import LineLayers, db, User, Database, Company, LineOfBusiness
+from config import DevelopmentConfig
 
 from flask_jwt_extended import (JWTManager, create_access_token, 
 get_jwt_identity, jwt_required, current_user, set_access_cookies,
@@ -13,8 +14,6 @@ def create_app():
   app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
   app.config['TEMPLATES_AUTO_RELOAD'] = True
   app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(app.root_path, 'data.db')
-  app.config['DEBUG'] = True
-  app.config['SECRET_KEY'] = 'MySecretKey'
   app.config['PREFERRED_URL_SCHEME'] = 'https'
   app.config['JWT_ACCESS_COOKIE_NAME'] = 'access_token'
   app.config['JWT_REFRESH_COOKIE_NAME'] = 'refresh_token'
@@ -22,6 +21,11 @@ def create_app():
   app.config["JWT_COOKIE_SECURE"] = True
   app.config["JWT_SECRET_KEY"] = "super-secret"
   app.config["JWT_COOKIE_CSRF_PROTECT"] = False
+  app.config.from_object(DevelopmentConfig)
+  
+  configType = os.getenv('ENV', 'development')
+  app.config.from_object(f'config.{configType.capitalize()}Config')
+  
   db.init_app(app)
   app.app_context().push()
   return app
