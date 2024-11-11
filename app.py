@@ -1,7 +1,7 @@
 import os
 from flask import Flask, request, render_template, flash, jsonify, redirect, url_for
 from functools import wraps
-from models import LineLayers, db, User, Database, Company, LineOfBusiness
+from models import LineLayers, db, User, Database, Company, LineOfBusinessdea
 from config import DevelopmentConfig
 
 from flask_jwt_extended import (JWTManager, create_access_token, 
