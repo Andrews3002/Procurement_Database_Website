@@ -1,10 +1,8 @@
 import click, sys, csv, json
 from tabulate import tabulate
-from models import db, User, Database, Company, LineOfBusiness, LineLayers, Layer1, Layer2, Layer3, Layer4
+from models import*
 from sqlalchemy.exc import IntegrityError
 from app import app
-
-db.init_app(app)
 
 
 @app.cli.command("init", help="Creates and initializes the database")

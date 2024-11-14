@@ -1,8 +1,7 @@
 import os
 from flask import Flask, request, render_template, flash, jsonify, redirect, url_for
 from functools import wraps
-from models import LineLayers, db, User, Database, Company, LineOfBusinessdea
-from config import DevelopmentConfig
+from models import*
 
 from flask_jwt_extended import (JWTManager, create_access_token, 
 get_jwt_identity, jwt_required, current_user, set_access_cookies,
@@ -21,10 +20,6 @@ def create_app():
   app.config["JWT_COOKIE_SECURE"] = True
   app.config["JWT_SECRET_KEY"] = "super-secret"
   app.config["JWT_COOKIE_CSRF_PROTECT"] = False
-  app.config.from_object(DevelopmentConfig)
-  
-  configType = os.getenv('ENV', 'development')
-  app.config.from_object(f'config.{configType.capitalize()}Config')
   
   db.init_app(app)
   app.app_context().push()
