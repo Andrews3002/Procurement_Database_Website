@@ -13,7 +13,7 @@ def create_app():
   app = Flask(__name__, static_url_path='/static')
   app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
   app.config['TEMPLATES_AUTO_RELOAD'] = True
-  app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://procurement_database_user:cVt8TtmqhLyHz45HrdEt87dM4Ym5Dxlg@dpg-csqqf3qj1k6c73c165e0-a.oregon-postgres.render.com/procurement_database"
+  app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///your_database_name.db"
   app.config['PREFERRED_URL_SCHEME'] = 'https'
   app.config['JWT_ACCESS_COOKIE_NAME'] = 'access_token'
   app.config['JWT_REFRESH_COOKIE_NAME'] = 'refresh_token'
