@@ -1,4 +1,5 @@
 import os
+import datetime
 from flask import Flask, request, render_template, flash, jsonify, redirect, url_for
 from functools import wraps
 from models import*
@@ -12,10 +13,11 @@ def create_app():
   app = Flask(__name__, static_url_path='/static')
   app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
   app.config['TEMPLATES_AUTO_RELOAD'] = True
-  app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(app.root_path, 'data.db')
+  app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://procurement_database_user:cVt8TtmqhLyHz45HrdEt87dM4Ym5Dxlg@dpg-csqqf3qj1k6c73c165e0-a.oregon-postgres.render.com/procurement_database"
   app.config['PREFERRED_URL_SCHEME'] = 'https'
   app.config['JWT_ACCESS_COOKIE_NAME'] = 'access_token'
   app.config['JWT_REFRESH_COOKIE_NAME'] = 'refresh_token'
+  app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(hours=15)
   app.config["JWT_TOKEN_LOCATION"] = ["cookies"]
   app.config["JWT_COOKIE_SECURE"] = True
   app.config["JWT_SECRET_KEY"] = "super-secret"
