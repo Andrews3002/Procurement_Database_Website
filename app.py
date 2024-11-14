@@ -346,7 +346,7 @@ def favorites_page():
   return render_template('Favorites.html', Companies=Companies, q=q, page=page)
   
 if __name__ == "__main__":
-  app.run(host='0.0.0.0', port=81)
+  app.run(host='0.0.0.0',  port=int(os.environ.get("PORT", 5000)))
 
 
 
