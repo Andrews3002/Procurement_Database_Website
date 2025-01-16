@@ -1,4 +1,5 @@
 import os
+from dotenv import load_dotenv
 import datetime
 from flask import Flask, request, render_template, flash, jsonify, redirect, url_for
 from functools import wraps
@@ -8,28 +9,23 @@ from flask_jwt_extended import (JWTManager, create_access_token,
 get_jwt_identity, jwt_required, current_user, set_access_cookies,
 unset_jwt_cookies, current_user,)
 
+load_dotenv()
 
 def create_app():
   app = Flask(__name__, static_url_path='/static')
   app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
   app.config['TEMPLATES_AUTO_RELOAD'] = True
-  # app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(app.root_path, 'data.db')
-  app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://procurementdb_dn6o_user:SKyeQM7R390kiOp4a6qA2JzmmYDzFZQw@dpg-cu0ngcl2ng1s73eoc04g-a.oregon-postgres.render.com/procurementdb_dn6o'
+  app.config['SQLALCHEMY_DATABASE_URI'] = os.getenv('SQLALCHEMY_DATABASE_URI')
   app.config['DEBUG'] = True
-  app.config['SECRET_KEY'] = 'MySecretKey'
-  app.config['PREFERRED_URL_SCHEME'] = 'https'
-  app.config['JWT_ACCESS_COOKIE_NAME'] = 'access_token'
-  app.config['JWT_REFRESH_COOKIE_NAME'] = 'refresh_token'
-  # app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(hours=15)
-  app.config["JWT_TOKEN_LOCATION"] = ["cookies"]
+  app.config['SECRET_KEY'] = os.getenv('SECRET_KEY')
+  app.config['PREFERRED_URL_SCHEME'] = os.getenv('PREFERRED_URL_SCHEME')
+  app.config['JWT_ACCESS_COOKIE_NAME'] = os.getenv('JWT_ACCESS_COOKIE_NAME')
+  app.config['JWT_REFRESH_COOKIE_NAME'] = os.getenv('JWT_REFRESH_COOKIE_NAME')
+  app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(hours=1)
+  app.config["JWT_TOKEN_LOCATION"] = os.getenv('JWT_TOKEN_LOCATION')
   app.config["JWT_COOKIE_SECURE"] = True
-  app.config["JWT_SECRET_KEY"] = "super-secret"
+  app.config["JWT_SECRET_KEY"] = os.getenv('JWT_SECRET_KEY')
   app.config["JWT_COOKIE_CSRF_PROTECT"] = False
-  app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {
-      'pool_size': 20,
-      'max_overflow': 10,
-      'pool_timeout': 30
-  }
   
   db.init_app(app)
   app.app_context().push()
@@ -104,7 +100,7 @@ def logout_action():
 @app.route('/signup', methods=['POST'])
 def signup_action():
   data = request.form  # get data from form submission
-  newuser = User(username=data['username'], email=data['email'], password=data['password'])  # create user object
+  newuser = User(username=data['username'], email=data['email'], password=data['password'])# create user object
   response = None
   try:
     db.session.add(newuser)
@@ -112,7 +108,7 @@ def signup_action():
     token = login_user(data['username'], data['password'])
     response = redirect(url_for('home_page'))
     set_access_cookies(response, token)
-    flash('Account Created!')  # send message
+    flash('Account Created!')# send message
   except Exception:  # attempted to insert a duplicate user
     db.session.rollback()
     flash("username or email already exists")  # error message
