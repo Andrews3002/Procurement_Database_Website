@@ -9,10 +9,19 @@ from app import app
 def initialize():
   db.drop_all()
   db.create_all()
+  
+  print("initialize started")
 
   with open('data.json') as file:
     data = json.load(file)
+    total_entries = len(data)
+    i = 0
+    batch1 = []
+    batch2 = []
+    
     for row in data:
+      i = i+1
+      
       temp = row['Line Of Business']
       properLOB = ""
 
@@ -23,9 +32,17 @@ def initialize():
         properLOB = temp
 
       new_entry = Database(row['Supplier Name'], properLOB)
+      batch1.append(new_entry)
 
-      suppliers = Company.query.filter_by(name=row['Supplier Name']).first()
-      if not suppliers:
+      duplicate = False
+      
+      if batch2:
+        for supplier in batch2:
+          if supplier.name == row['Supplier Name']:
+            duplicate = True
+            break 
+      
+      if duplicate == False:
         new_entry2 = Company(
             name=row.get('Supplier Name', None)
             if row.get('Supplier Name') else None,
@@ -87,18 +104,53 @@ def initialize():
             createdTimestamp=row.get('CreDttm')
             if row.get('CreDttm') else None,
             fav = "0")
-        db.session.add(new_entry2)
-      db.session.add(new_entry)
+        batch2.append(new_entry2)
+          
+      progress = (i/total_entries) * 100
+      print(f"phase 1 progress: {progress:.0f}%")
+    
+    if batch1:
+      db.session.bulk_save_objects(batch1)
+    
+    if batch2:
+      db.session.bulk_save_objects(batch2)
+      
 
+  print("phase 1 completed")
+  
   with open('lines-data.json') as file:
     data = json.load(file)
+    total_entries = len(data)
+    i = 0
+    batch = []
+    
     for row in data:
+      i = i+1
       entry = LineOfBusiness(n=row['LOB name'], c=row['code'], l=row['Level'])
-      db.session.add(entry)
+      batch.append(entry)
+      
+      progress = (i/total_entries) * 100
+      print(f"phase 2 progress: {progress:.0f}%")
+      
+    if batch:
+      db.session.bulk_save_objects(batch)
+    
+    print("phase 2 completed")
 
   with open('LineLayers_Entries.json') as file:
     data = json.load(file)
+    total_entries = len(data)
+    i = 0
+    batch1 = []
+    batch2 = []
+    batch3 = []
+    batch4 = []
+    batch5 = []
+    lineOfBusinessList = LineOfBusiness.query.all()
+    
     for row in data:
+      
+      i = i+1      
 
       line = row['L1'].strip()
       index = line.index(" - ")
@@ -119,47 +171,91 @@ def initialize():
       index = line.index(" - ")
       layer4 = (line[index:]).strip(" - ")
       layer4code = line[:index]
-
-      reg = LineOfBusiness.query.filter(
-          LineOfBusiness.code.ilike(f"%{layer4code}%")).first()
+      
+      reg = False
+      
+      for val in lineOfBusinessList:
+        if val.code == layer4code:
+          reg = True
+          break
 
       registered = "Yes" if reg else "No"
-
-      val = Layer1.query.filter(Layer1.code.ilike(f"%{layer1code}%")).first()
-
-      if not val:
+        
+      duplicate = False
+      
+      if batch1:
+        for layer in batch1:
+          if layer.code == layer1code:
+            duplicate = True
+            break
+          
+      if not duplicate:
         new_entry = Layer1(name=layer1, code=layer1code)
-        db.session.add(new_entry)
+        batch1.append(new_entry)
 
-      val = Layer2.query.filter(Layer2.code.ilike(f"%{layer2code}%")).first()
+      duplicate = False
+      
+      if batch2:
+        for layer in batch2:
+          if layer.code == layer2code:
+            duplicate = True
+            break
 
-      if not val:
+      if not duplicate:
         new_entry = Layer2(outerCode=layer1code, name=layer2, code=layer2code)
-        db.session.add(new_entry)
-
-      val = Layer3.query.filter(Layer3.code.ilike(f"%{layer3code}%")).first()
-
-      if not val:
+        batch2.append(new_entry)
+      
+      duplicate = False
+      
+      if batch3:
+        for layer in batch3:
+          if layer.code == layer3code:
+            duplicate = True
+            break
+      
+      if not duplicate:
         new_entry = Layer3(outerCode=layer2code, name=layer3, code=layer3code)
-        db.session.add(new_entry)
-
-      val = Layer4.query.filter(Layer4.code.ilike(f"%{layer4code}%")).first()
-
-      if not val:
+        batch3.append(new_entry)
+      
+      duplicate = False
+      
+      if batch4:
+        for layer in batch4:
+          if layer.code == layer4code:
+            duplicate = True
+            break
+      
+      if not duplicate:
         new_entry = Layer4(outerCode=layer3code,
-                           name=layer4,
-                           code=layer4code,
-                           registered=registered)
-        db.session.add(new_entry)
+                          name=layer4,
+                          code=layer4code,
+                          registered=registered)
+        batch4.append(new_entry)
 
       entry = LineLayers(layer1, layer1code, layer2, layer2code, layer3,
-                         layer3code, layer4, layer4code, registered)
-      db.session.add(entry)
-      print(layer1code)
+                        layer3code, layer4, layer4code, registered)
+      batch5.append(entry)
+      
+      progress = (i / total_entries) * 100
+      print(f"phase 3 Progress: {progress:.0f}%")
+      
+    if batch1:
+      db.session.bulk_save_objects(batch1)
+    
+    if batch2:
+      db.session.bulk_save_objects(batch2)
+      
+    if batch3:
+      db.session.bulk_save_objects(batch3)
+      
+    if batch4:
+      db.session.bulk_save_objects(batch4)
+      
+    if batch5:
+      db.session.bulk_save_objects(batch5)
 
   db.session.commit()
   print('database intialized')
-
 
 @app.cli.command("get-user", help="Retrieves a User by username or id")
 @click.argument('key', default='bob')

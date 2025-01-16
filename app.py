@@ -13,15 +13,24 @@ def create_app():
   app = Flask(__name__, static_url_path='/static')
   app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
   app.config['TEMPLATES_AUTO_RELOAD'] = True
-  app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///your_database_name.db"
+  # app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(app.root_path, 'data.db')
+  app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://procurementdb_dn6o_user:SKyeQM7R390kiOp4a6qA2JzmmYDzFZQw@dpg-cu0ngcl2ng1s73eoc04g-a.oregon-postgres.render.com/procurementdb_dn6o'
+  #postgresql://procurementdb_dn6o_user:SKyeQM7R390kiOp4a6qA2JzmmYDzFZQw@dpg-cu0ngcl2ng1s73eoc04g-a.oregon-postgres.render.com/procurementdb_dn6o
+  app.config['DEBUG'] = True
+  app.config['SECRET_KEY'] = 'MySecretKey'
   app.config['PREFERRED_URL_SCHEME'] = 'https'
   app.config['JWT_ACCESS_COOKIE_NAME'] = 'access_token'
   app.config['JWT_REFRESH_COOKIE_NAME'] = 'refresh_token'
-  app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(hours=15)
+  # app.config["JWT_ACCESS_TOKEN_EXPIRES"] = datetime.timedelta(hours=15)
   app.config["JWT_TOKEN_LOCATION"] = ["cookies"]
   app.config["JWT_COOKIE_SECURE"] = True
   app.config["JWT_SECRET_KEY"] = "super-secret"
   app.config["JWT_COOKIE_CSRF_PROTECT"] = False
+  app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {
+      'pool_size': 20,
+      'max_overflow': 10,
+      'pool_timeout': 30
+  }
   
   db.init_app(app)
   app.app_context().push()
