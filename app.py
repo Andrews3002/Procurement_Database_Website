@@ -26,6 +26,10 @@ def create_app():
   app.config["JWT_COOKIE_SECURE"] = True
   app.config["JWT_SECRET_KEY"] = os.getenv('JWT_SECRET_KEY')
   app.config["JWT_COOKIE_CSRF_PROTECT"] = False
+  app.config['SQLALCHEMY_ENGINE_OPTIONS'] = {
+    "pool_pre_ping": True,
+    "pool_recycle": 1,
+  }
   
   db.init_app(app)
   app.app_context().push()
@@ -84,7 +88,6 @@ def login_page():
 def signup_page():
   return render_template('signup.html')
 
-
 @app.route('/logout', methods=['GET'])
 @jwt_required()
 def logout_action():
@@ -109,9 +112,9 @@ def signup_action():
     response = redirect(url_for('home_page'))
     set_access_cookies(response, token)
     flash('Account Created!')# send message
-  except Exception:  # attempted to insert a duplicate user
+  except Exception:
     db.session.rollback()
-    flash("username or email already exists")  # error message
+    flash("username or email already exists")
     response = redirect(url_for('signup_page'))
   return response
 
